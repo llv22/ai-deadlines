@@ -6,7 +6,7 @@ domain: "aideadline.llv22"
 baseurl: ""
 
 twitter_hashtag: machinelearning
-github_username: paperswithcode
+github_username: llv22
 github_repo: ai-deadlines
 
 markdown: kramdown
