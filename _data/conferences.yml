@@ -1,7 +1,7 @@
 - title: LDK
   year: 2025
   id: ldk25
-  link: https://ldk2025.example.com
+  link: https://2025.ldk-conf.org/
   deadline: '2025-03-25 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -16,7 +16,7 @@
 - title: COLM
   year: 2025
   id: colm25
-  link: [Insert Link Here]
+  link: https://colmweb.org/cfp.html
   deadline: '2025-03-30 04:59:59'
   abstract_deadline: '2025-03-22 23:59:59'
   timezone: UTC-07
@@ -24,14 +24,14 @@
   date: October 7-9, 2025
   start: 2025-10-07
   end: 2025-10-09
-  hindex: [Insert H-index Here]
+  hindex: 100
   sub: NLP
   note: Abstract deadline on March 22, 2025. More info here.
 
 - title: ICANN
   year: 2025
   id: icann25
-  link: https://icann2025.example.com
+  link: https://e-nns.org/icann2025/
   deadline: '2025-03-30 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -46,7 +46,7 @@
 - title: AUTOMLCONF
   year: 2025
   id: automlconf25
-  link: https://automlconf2025.example.com
+  link: https://2025.automl.cc/
   deadline: '2025-04-01 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -61,7 +61,7 @@
 - title: UIST
   year: 2025
   id: uist25
-  link: https://uist2025.example.com
+  link: https://uist.acm.org/2025/
   deadline: '2025-04-09 18:00:00'
   abstract_deadline: '2025-04-02 18:00:00'
   timezone: America/Los_Angeles
@@ -76,7 +76,7 @@
 - title: NLPCC
   year: 2025
   id: nlpcc25
-  link: https://nlpcc2025.example.com
+  link: http://tcci.ccf.org.cn/conference/2025/index.php
   deadline: '2025-04-06 08:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -91,7 +91,7 @@
 - title: RecSys
   year: 2025
   id: recsys25
-  link: https://recsys2025.example.com
+  link: https://recsys.acm.org/recsys25
   deadline: '2025-04-09 04:59:59'
   abstract_deadline: '2025-04-01 23:59:59'
   timezone: America/Los_Angeles
@@ -106,7 +106,7 @@
 - title: UIST
   year: 2025
   id: uist25
-  link: https://uist2025.example.com
+  link: https://uist.acm.org/2025/
   deadline: '2025-04-09 18:00:00'
   abstract_deadline: '2025-04-02 18:00:00'
   timezone: America/Los_Angeles
@@ -121,7 +121,7 @@
 - title: IJCB
   year: 2025
   id: ijcb25
-  link: https://ijcb2025.example.com
+  link: https://ijcb2025.ieee-biometrics.org/
   deadline: '2025-04-11 23:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -136,7 +136,7 @@
 - title: ACM MM
   year: 2025
   id: acmmm25
-  link: https://acmmm2025.example.com
+  link: https://2025.acmmm.org/
   deadline: '2025-04-12 04:59:59'
   abstract_deadline: '2025-04-04 23:59:59'
   timezone: America/Los_Angeles
@@ -151,7 +151,7 @@
 - title: CoRL
   year: 2025
   id: corl25
-  link: https://corl2025.example.com
+  link: https://www.corl.org/
   deadline: '2025-05-01 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -166,8 +166,8 @@
 - title: UbiComp/ISWC
   year: 2025
   id: ubicompiswc25
-  link: https://ubicompiswc2025.example.com
-  deadline: '2025-02-02 03:59:59'
+  link: https://www.ubicomp.org/ubicomp-iswc-2025
+  deadline: '2025-05-01 03:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
   place: Espoo, Finland
@@ -181,8 +181,8 @@
 - title: ECAI
   year: 2025
   id: ecai25
-  link: https://ecai2025.example.com
-  deadline: '2025-05-07 04:59:59'
+  link: https://ecai2025.org/deadlines/
+  deadline: '2025-05-06 04:59:59'
   abstract_deadline: '2025-04-29 23:59:59'
   timezone: America/Los_Angeles
   place: Bologna, Italy
@@ -196,7 +196,7 @@
 - title: ISWC
   year: 2025
   id: iswc25
-  link: https://iswc2025.example.com
+  link: https://iswc2025.semanticweb.org/
   deadline: '2025-04-18 04:59:59'
   abstract_deadline: '2025-04-10 23:59:59'
   timezone: America/Los_Angeles
@@ -211,7 +211,7 @@
 - title: NeurIPS
   year: 2025
   id: neurips25
-  link: https://neurips2025.example.com
+  link: https://neurips.cc/Conferences/2025
   deadline: '2025-05-16 04:59:59'
   abstract_deadline: '2025-05-11 23:59:59'
   timezone: America/Los_Angeles
@@ -226,7 +226,7 @@
 - title: ICONIP
   year: 2025
   id: iconip25
-  link: https://iconip2025.example.com
+  link: https://iconip2025.apnns.org/
   deadline: '2025-07-23 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -241,7 +241,7 @@
 - title: EMNLP
   year: 2025
   id: emnlp25
-  link: https://emnlp2025.example.com
+  link: https://2025.emnlp.org/
   deadline: '2025-05-20 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -256,7 +256,7 @@
 - title: CIKM
   year: 2025
   id: cikm25
-  link: https://cikm2025.example.com
+  link: https://cikm2025.org/
   deadline: '2025-05-24 04:59:59'
   abstract_deadline: '2025-05-16 23:59:59'
   timezone: America/Los_Angeles
@@ -271,7 +271,7 @@
 - title: ICDM
   year: 2025
   id: icdm25
-  link: https://icdm2025.example.com
+  link: https://www3.cs.stonybrook.edu/~icdm2025/cfp.html
   deadline: '2025-06-15 04:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -286,7 +286,7 @@
 - title: UbiComp/ISWC
   year: 2025
   id: ubicompiswc25
-  link: https://ubicompiswc2025.example.com
+  link: https://www.ubicomp.org/ubicomp-iswc-2025
   deadline: '2025-02-02 03:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
@@ -298,25 +298,10 @@
   sub: HCI
   note: First round
 
-- title: UbiComp/ISWC
-  year: 2025
-  id: ubicompiswc25
-  link: https://ubicompiswc2025.example.com
-  deadline: '2025-02-02 03:59:59'
-  abstract_deadline: ''
-  timezone: America/Los_Angeles
-  place: Espoo, Finland
-  date: October 12-16, 2025
-  start: 2025-10-12
-  end: 2025-10-16
-  hindex: 100
-  sub: HCI
-  note: More info here
-
 - title: ECCV
   year: 2026
   id: eccv26
-  link: https://eccv2026.example.com
+  link: https://eccv.ecva.net/
   deadline: '2026-03-06 13:00:00'
   abstract_deadline: 'TBD'
   timezone: America/Los_Angeles
