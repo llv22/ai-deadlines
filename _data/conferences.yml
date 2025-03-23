@@ -1,3 +1,333 @@
+- title: LDK
+  year: 2025
+  id: ldk25
+  link: https://ldk2025.example.com
+  deadline: '2025-03-25 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Naples, Italy
+  date: September 9-12, 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  hindex: 100
+  sub: ['NLP', 'KR']
+  note: More info <a href='https://ldk2025.example.com/call-for-papers.html'>here</a>
+
+- title: COLM
+  year: 2025
+  id: colm25
+  link: [Insert Link Here]
+  deadline: '2025-03-30 04:59:59'
+  abstract_deadline: '2025-03-22 23:59:59'
+  timezone: UTC-07
+  place: Palais des Congrès Montreal, Canada
+  date: October 7-9, 2025
+  start: 2025-10-07
+  end: 2025-10-09
+  hindex: [Insert H-index Here]
+  sub: NLP
+  note: Abstract deadline on March 22, 2025. More info here.
+
+- title: ICANN
+  year: 2025
+  id: icann25
+  link: https://icann2025.example.com
+  deadline: '2025-03-30 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Kaunas, Lithuania
+  date: September 9-12, 2025
+  start: 2025-09-09
+  end: 2025-09-12
+  hindex: 100
+  sub: ML
+  note: More info <a href='https://icann2025.example.com/call-for-papers.html'>here</a>
+
+- title: AUTOMLCONF
+  year: 2025
+  id: automlconf25
+  link: https://automlconf2025.example.com
+  deadline: '2025-04-01 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: New York City, USA
+  date: September 8-11, 2025
+  start: 2025-09-08
+  end: 2025-09-11
+  hindex: 100
+  sub: ML
+  note: More info here
+
+- title: UIST
+  year: 2025
+  id: uist25
+  link: https://uist2025.example.com
+  deadline: '2025-04-09 18:00:00'
+  abstract_deadline: '2025-04-02 18:00:00'
+  timezone: America/Los_Angeles
+  place: Busan, Korea
+  date: Sep 28 - Oct 1, 2025
+  start: 2025-09-28
+  end: 2025-10-01
+  hindex: 100
+  sub: HCI
+  note: More info here
+
+- title: NLPCC
+  year: 2025
+  id: nlpcc25
+  link: https://nlpcc2025.example.com
+  deadline: '2025-04-06 08:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Urumqi, China
+  date: August 8-10, 2025
+  start: 2025-08-08
+  end: 2025-08-10
+  hindex: 100
+  sub: NLP
+  note: More info here
+
+- title: RecSys
+  year: 2025
+  id: recsys25
+  link: https://recsys2025.example.com
+  deadline: '2025-04-09 04:59:59'
+  abstract_deadline: '2025-04-01 23:59:59'
+  timezone: America/Los_Angeles
+  place: Prague, Czech Republic
+  date: September 22-26, 2025
+  start: 2025-09-22
+  end: 2025-09-26
+  hindex: 100
+  sub: DM
+  note: More info here
+
+- title: UIST
+  year: 2025
+  id: uist25
+  link: https://uist2025.example.com
+  deadline: '2025-04-09 18:00:00'
+  abstract_deadline: '2025-04-02 18:00:00'
+  timezone: America/Los_Angeles
+  place: Busan, Korea
+  date: Sep 28 - Oct 1, 2025
+  start: 2025-09-28
+  end: 2025-10-01
+  hindex: 100
+  sub: HCI
+  note: More info here
+
+- title: IJCB
+  year: 2025
+  id: ijcb25
+  link: https://ijcb2025.example.com
+  deadline: '2025-04-11 23:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Osaka, Japan
+  date: September 8-11, 2025
+  start: 2025-09-08
+  end: 2025-09-11
+  hindex: 100
+  sub: CV
+  note: More info here
+
+- title: ACM MM
+  year: 2025
+  id: acmmm25
+  link: https://acmmm2025.example.com
+  deadline: '2025-04-12 04:59:59'
+  abstract_deadline: '2025-04-04 23:59:59'
+  timezone: America/Los_Angeles
+  place: Dublin, Ireland
+  date: October 27-31, 2025
+  start: 2025-10-27
+  end: 2025-10-31
+  hindex: 100
+  sub: CV
+  note: More info here
+
+- title: CoRL
+  year: 2025
+  id: corl25
+  link: https://corl2025.example.com
+  deadline: '2025-05-01 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Seoul, Korea
+  date: September 27-30, 2025
+  start: 2025-09-27
+  end: 2025-09-30
+  hindex: 100
+  sub: RO
+  note: More info here
+
+- title: UbiComp/ISWC
+  year: 2025
+  id: ubicompiswc25
+  link: https://ubicompiswc2025.example.com
+  deadline: '2025-02-02 03:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Espoo, Finland
+  date: October 12-16, 2025
+  start: 2025-10-12
+  end: 2025-10-16
+  hindex: 100
+  sub: HCI
+  note: First round
+
+- title: ECAI
+  year: 2025
+  id: ecai25
+  link: https://ecai2025.example.com
+  deadline: '2025-05-07 04:59:59'
+  abstract_deadline: '2025-04-29 23:59:59'
+  timezone: America/Los_Angeles
+  place: Bologna, Italy
+  date: October 25-30, 2025
+  start: 2025-10-25
+  end: 2025-10-30
+  hindex: 100
+  sub: ['ML', 'CV', 'NLP', 'RO', 'SP', 'DM', 'AP', 'KR', 'HCI']
+  note: More info here
+
+- title: ISWC
+  year: 2025
+  id: iswc25
+  link: https://iswc2025.example.com
+  deadline: '2025-04-18 04:59:59'
+  abstract_deadline: '2025-04-10 23:59:59'
+  timezone: America/Los_Angeles
+  place: Baltimore, USA
+  date: November 11-15, 2025
+  start: 2025-11-11
+  end: 2025-11-15
+  hindex: 100
+  sub: KR
+  note: More info here
+
+- title: NeurIPS
+  year: 2025
+  id: neurips25
+  link: https://neurips2025.example.com
+  deadline: '2025-05-16 04:59:59'
+  abstract_deadline: '2025-05-11 23:59:59'
+  timezone: America/Los_Angeles
+  place: San Diego Convention Center, USA
+  date: December 2-7, 2025
+  start: 2025-12-02
+  end: 2025-12-07
+  hindex: 100
+  sub: ML
+  note: More info here
+
+- title: ICONIP
+  year: 2025
+  id: iconip25
+  link: https://iconip2025.example.com
+  deadline: '2025-07-23 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Auckland, New Zealand
+  date: December 2-6, 2025
+  start: 2025-12-02
+  end: 2025-12-06
+  hindex: 100
+  sub: ML
+  note: More info here
+
+- title: EMNLP
+  year: 2025
+  id: emnlp25
+  link: https://emnlp2025.example.com
+  deadline: '2025-05-20 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Suzhou, China
+  date: November 5 - 9, 2025
+  start: 2025-11-05
+  end: 2025-11-09
+  hindex: 100
+  sub: ['NLP', 'SP']
+  note: More info here
+
+- title: CIKM
+  year: 2025
+  id: cikm25
+  link: https://cikm2025.example.com
+  deadline: '2025-05-24 04:59:59'
+  abstract_deadline: '2025-05-16 23:59:59'
+  timezone: America/Los_Angeles
+  place: Coex, Seoul, Korea
+  date: November 10-14, 2025
+  start: 2025-11-10
+  end: 2025-11-14
+  hindex: 100
+  sub: DM
+  note: More info here
+
+- title: ICDM
+  year: 2025
+  id: icdm25
+  link: https://icdm2025.example.com
+  deadline: '2025-06-15 04:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Abu Dhabi, UAE
+  date: December 9-12, 2025
+  start: 2025-12-09
+  end: 2025-12-12
+  hindex: 100
+  sub: DM
+  note: More info here
+
+- title: UbiComp/ISWC
+  year: 2025
+  id: ubicompiswc25
+  link: https://ubicompiswc2025.example.com
+  deadline: '2025-02-02 03:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Espoo, Finland
+  date: October 12-16, 2025
+  start: 2025-10-12
+  end: 2025-10-16
+  hindex: 100
+  sub: HCI
+  note: First round
+
+- title: UbiComp/ISWC
+  year: 2025
+  id: ubicompiswc25
+  link: https://ubicompiswc2025.example.com
+  deadline: '2025-02-02 03:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Espoo, Finland
+  date: October 12-16, 2025
+  start: 2025-10-12
+  end: 2025-10-16
+  hindex: 100
+  sub: HCI
+  note: More info here
+
+- title: ECCV
+  year: 2026
+  id: eccv26
+  link: https://eccv2026.example.com
+  deadline: '2026-03-06 13:00:00'
+  abstract_deadline: 'TBD'
+  timezone: America/Los_Angeles
+  place: Malmö, Sweden
+  date: September 8 - 13, 2026
+  start: 2026-09-08
+  end: 2026-09-13
+  hindex: 100
+  sub: CV
+  note: Abstract deadline TBD!
+
 - title: AISTATS
   year: 2025
   id: aistats25
