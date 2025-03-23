@@ -168,7 +168,7 @@
   year: 2025
   id: ubicompiswc25
   link: https://www.ubicomp.org/ubicomp-iswc-2025
-  deadline: '2025-05-01 03:59:59'
+  deadline: '2025-08-01 03:59:59'
   abstract_deadline: ''
   timezone: America/Los_Angeles
   place: Espoo, Finland
@@ -177,7 +177,22 @@
   end: 2025-10-16
   hindex: 100
   sub: HCI
-  note: First round
+  note: third round (only for resubmissions after major revisions)
+
+- title: UbiComp/ISWC
+  year: 2025
+  id: ubicompiswc25
+  link: https://www.ubicomp.org/ubicomp-iswc-2025
+  deadline: '2025-11-01 03:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Espoo, Finland
+  date: October 12-16, 2025
+  start: 2025-10-12
+  end: 2025-10-16
+  hindex: 100
+  sub: HCI
+  note: fourth round
 
 - title: ECAI
   year: 2025
