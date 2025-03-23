@@ -224,6 +224,21 @@
   sub: ML
   note: More info here
 
+- title: NeurIPSWorkshop
+  year: 2025
+  id: neurips25wshop
+  link: https://neurips.cc/Conferences/2025
+  deadline: '2025-05-16 04:59:59'
+  abstract_deadline: '2025-05-11 23:59:59'
+  timezone: America/Los_Angeles
+  place: San Diego Convention Center, USA
+  date: December 2-7, 2025
+  start: 2025-12-02
+  end: 2025-12-07
+  hindex: 100
+  sub: ML
+  note: More info here
+
 - title: ICONIP
   year: 2025
   id: iconip25
