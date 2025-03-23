@@ -142,8 +142,8 @@ function update_filtering(data) {
   calendar = new Calendar("#calendar-page", calendar_data);
 
   if (subs.length == 0) {
-    window.history.pushState('', '', page_url);
+    window.history.pushState('', '', page_url = "/ai-deadlines");
   } else {
-    window.history.pushState('', '', page_url + '/?sub=' + data.subs.join());
+    window.history.pushState('', '', page_url + '/ai-deadlines?sub=' + data.subs.join());
   }
 }
