@@ -104,21 +104,6 @@
   sub: DM
   note: More info here
 
-- title: UIST
-  year: 2025
-  id: uist25
-  link: https://uist.acm.org/2025/
-  deadline: '2025-04-09 18:00:00'
-  abstract_deadline: '2025-04-02 18:00:00'
-  timezone: America/Los_Angeles
-  place: Busan, Korea
-  date: Sep 28 - Oct 1, 2025
-  start: 2025-09-28
-  end: 2025-10-01
-  hindex: 100
-  sub: HCI
-  note: More info here
-
 - title: IJCB
   year: 2025
   id: ijcb25
