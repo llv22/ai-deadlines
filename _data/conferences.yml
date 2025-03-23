@@ -284,6 +284,21 @@
   sub: DM
   note: More info here
 
+- title: AACL
+  year: 2025
+  id: aacl25
+  link: https://afnlp.org/conferences/ijcnlp2025/
+  deadline: '2025-07-28 23:59:59'
+  abstract_deadline: null
+  timezone: UTC-12
+  place: Mumbai, India
+  date: Dec 20-24, 2025
+  start: 2025-12-20
+  end: 2025-12-24
+  hindex: 100
+  sub: NLP
+  note: 'Submission deadline on July 28, 2025. More info <a href="https://afnlp.org/conferences/ijcnlp2025/">here</a>.' 
+
 - title: ICDM
   year: 2025
   id: icdm25
