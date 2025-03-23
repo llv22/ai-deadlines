@@ -4,7 +4,7 @@
         clickDay: function (e) {
           if (e.events.length > 0) {
             for (var i in e.events) {
-              window.open("{{site.baseurl}}/conference?id=" + e.events[i].abbreviation, "_self")
+              window.open("{{site.baseurl}}/ai-deadlines/conference?id=" + e.events[i].abbreviation, "_self")
             }
           }
         },

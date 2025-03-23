@@ -30,7 +30,7 @@ function update_filtering(data) {
   if (subs.length == 0) {
     window.history.pushState("", "", page_url);
   } else {
-    window.history.pushState("", "", page_url + "/?sub=" + data.subs.join());
+    window.history.pushState("", "", page_url + "/ai-deadlines?sub=" + data.subs.join());
   }
 }
 
