@@ -318,7 +318,7 @@
   year: 2026
   id: eccv26
   link: https://eccv.ecva.net/
-  deadline: '2026-08-07 13:00:00'
+  deadline: '2025-08-07 13:00:00'
   abstract_deadline: '2026-08-15 13:00:00'
   timezone: America/Los_Angeles
   place: Malmö, Sweden
@@ -326,7 +326,7 @@
   start: 2026-01-20
   end: 2026-01-27
   hindex: 100
-  sub: CV
+  sub: ML
   note: Deadlines adjusted in <a href='https://aaai.org/conference/aaai/aaai-26/'>here</a>
 
 - title: AISTATS
