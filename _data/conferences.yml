@@ -228,8 +228,8 @@
   year: 2025
   id: neurips25wshop
   link: https://neurips.cc/Conferences/2025
-  deadline: '2025-05-16 04:59:59'
-  abstract_deadline: '2025-05-11 23:59:59'
+  deadline: '2025-06-07 04:59:59'
+  abstract_deadline: '2025-06-07 23:59:59'
   timezone: America/Los_Angeles
   place: San Diego Convention Center, USA
   date: December 2-7, 2025
@@ -237,7 +237,7 @@
   end: 2025-12-07
   hindex: 100
   sub: ML
-  note: More info here
+  note: Workshop Acceptance Notification date is July 12, 2024, Suggested Submission Date for Workshop Contributions date is August 30, 2024
 
 - title: ICONIP
   year: 2025
