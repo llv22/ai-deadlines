@@ -243,16 +243,16 @@
   year: 2025
   id: emnlp25
   link: https://2025.emnlp.org/
-  deadline: '2025-05-20 04:59:59'
+  deadline: '2025-05-19 23:59:59'
   abstract_deadline: ''
-  timezone: America/Los_Angeles
+  timezone: UTC-12
   place: Suzhou, China
   date: November 5 - 9, 2025
   start: 2025-11-05
   end: 2025-11-09
   hindex: 100
   sub: ['NLP', 'SP']
-  note: More info <a href='https://2025.emnlp.org/calls/main-conference-papers/'>here</a>
+  note: ARR May 2025 cycle. More info <a href='https://2025.emnlp.org/'>here</a>
 
 - title: CIKM
   year: 2025
@@ -303,16 +303,16 @@
   year: 2026
   id: eccv26
   link: https://eccv.ecva.net/
-  deadline: '2026-03-06 13:00:00'
+  deadline: 'TBD'
   abstract_deadline: 'TBD'
   timezone: America/Los_Angeles
   place: Malmö, Sweden
   date: September 8 - 13, 2026
   start: 2026-09-08
   end: 2026-09-13
-  hindex: 100
+  hindex: 238
   sub: CV
-  note: Deadlines adjusted in <a href='https://eccv.ecva.net/Conferences/2026/CallForPapers'>here</a>
+  note: Deadlines TBD. Check <a href='https://eccv.ecva.net/Conferences/2026/Dates'>here</a> for updates
 
 - title: AAAI
   year: 2026
@@ -328,6 +328,81 @@
   hindex: 100
   sub: ML
   note: Deadlines adjusted in <a href='https://aaai.org/conference/aaai/aaai-26/'>here</a>
+
+- title: ICML
+  year: 2025
+  id: icml25
+  link: https://icml.cc/Conferences/2025
+  deadline: '2025-01-30 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Vancouver Convention Center, Canada
+  date: July 13-19, 2025
+  start: 2025-07-13
+  end: 2025-07-19
+  hindex: 320
+  sub: ML
+  note: More info <a href='https://icml.cc/Conferences/2025/CallForPapers'>here</a>
+
+- title: ACL
+  year: 2025
+  id: acl25
+  link: https://2025.aclweb.org/
+  deadline: '2025-02-15 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Vienna, Austria
+  date: July 27 - August 1, 2025
+  start: 2025-07-27
+  end: 2025-08-01
+  hindex: 200
+  sub: NLP
+  note: ARR February 2025 cycle. More info <a href='https://2025.aclweb.org/'>here</a>
+
+- title: IJCAI
+  year: 2025
+  id: ijcai25
+  link: https://2025.ijcai.org/
+  deadline: '2025-01-23 23:59:59'
+  abstract_deadline: '2025-01-16 23:59:59'
+  timezone: UTC-12
+  place: Montreal, Canada
+  date: August 16-22, 2025
+  start: 2025-08-16
+  end: 2025-08-22
+  hindex: 145
+  sub: ML
+  note: Abstract deadline on January 16, 2025. More info <a href='https://2025.ijcai.org/'>here</a>
+
+- title: ICCV
+  year: 2025
+  id: iccv25
+  link: https://iccv.thecvf.com/Conferences/2025
+  deadline: '2025-03-07 23:59:00'
+  abstract_deadline: '2025-03-03 23:59:00'
+  timezone: Pacific/Honolulu
+  place: Honolulu Convention Center, Hawaii
+  date: October 19-23, 2025
+  start: 2025-10-19
+  end: 2025-10-23
+  hindex: 298
+  sub: CV
+  note: Paper registration deadline on March 3, 2025. More info <a href='https://iccv.thecvf.com/Conferences/2025/CallForPapers'>here</a>
+
+- title: KDD
+  year: 2025
+  id: kdd25
+  link: https://kdd2025.kdd.org/
+  deadline: '2025-02-10 23:59:59'
+  abstract_deadline: '2025-02-03 23:59:59'
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: August 2025
+  start: 2025-08-03
+  end: 2025-08-07
+  hindex: 156
+  sub: DM
+  note: Second cycle. Abstract deadline on February 3, 2025. More info <a href='https://kdd2025.kdd.org/'>here</a>
 
 - title: AISTATS
   year: 2025
@@ -348,16 +423,16 @@
   year: 2025
   id: cvpr25
   link: https://cvpr.thecvf.com/Conferences/2025
-  deadline: '2024-11-15 06:59:59'
-  abstract_deadline: '2024-11-08 06:59:59'
-  timezone: GMT
+  deadline: '2024-11-14 23:59:00'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
   place: Nashville, Tennessee, USA
   date: June 10-17, 2025
   start: 2025-06-10
   end: 2025-06-17
   hindex: 389
   sub: CV
-  note: Mandatory paper registration deadline on November 07, 2023. More info <a href='https://cvpr.thecvf.com/Conferences/2025'>here</a>.
+  note: Supplementary materials due November 21, 2024. More info <a href='https://cvpr.thecvf.com/Conferences/2025'>here</a>.
 
 - title: NAACL
   year: 2025
