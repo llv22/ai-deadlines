@@ -316,12 +316,12 @@
 
 - title: AAAI
   year: 2026
-  id: eccv26
-  link: https://eccv.ecva.net/
-  deadline: '2025-08-07 13:00:00'
-  abstract_deadline: '2026-08-15 13:00:00'
-  timezone: America/Los_Angeles
-  place: Malmö, Sweden
+  id: aaai26
+  link: https://aaai.org/conference/aaai/aaai-26/
+  deadline: '2025-08-01 11:59:00'
+  abstract_deadline: '2025-07-25 11:59:00'
+  timezone: UTC-12
+  place: Singapore
   date: January 20 - 27, 2026
   start: 2026-01-20
   end: 2026-01-27
