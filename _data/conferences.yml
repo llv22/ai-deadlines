@@ -531,7 +531,7 @@
   year: 2026
   id: emnlp26
   link: https://2026.emnlp.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~June 2026 ARR)'
   abstract_deadline: ''
   timezone: UTC-12
   place: Budapest, Hungary
@@ -540,7 +540,7 @@
   end: 2026-10-29
   hindex: 100
   sub: ['NLP', 'SP']
-  note: Uses ARR. Commitment deadline TBD. More info at <a href='https://aclrollingreview.org/dates'>ARR dates</a>
+  note: Uses ARR. Commitment deadline TBA. More info at <a href='https://aclrollingreview.org/dates'>ARR dates</a>
 
 - title: ICASSP
   year: 2026
@@ -576,7 +576,7 @@
   year: 2026
   id: acmmm26
   link: https://2026.acmmm.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~April 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Rio de Janeiro, Brazil
@@ -585,7 +585,7 @@
   end: 2026-10-05
   hindex: 100
   sub: CV
-  note: Deadlines TBD, typically April. More info <a href='https://2026.acmmm.org/'>here</a>
+  note: Deadlines TBA, typically April. More info <a href='https://2026.acmmm.org/'>here</a>
 
 - title: COLM
   year: 2026
@@ -606,7 +606,7 @@
   year: 2026
   id: siggraph26
   link: https://s2026.siggraph.org/
-  deadline: 'TBA'
+  deadline: 'TBA (Papers closed)'
   abstract_deadline: 'TBA'
   timezone: UTC
   place: Los Angeles, USA
@@ -681,7 +681,7 @@
   year: 2026
   id: corl26
   link: https://www.corl.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~June 2026)'
   abstract_deadline: ''
   timezone: UTC-12
   place: Austin, Texas, USA
@@ -697,7 +697,7 @@
   id: bmvc26
   full_name: British Machine Vision Conference
   link: https://bmvc2026.bmva.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~May 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC
   place: Lancaster, UK
@@ -759,7 +759,7 @@
   year: 2026
   id: siggraphasia26
   link: https://asia.siggraph.org/2026/
-  deadline: 'TBA'
+  deadline: 'TBA (~May 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC
   place: Kuala Lumpur, Malaysia
@@ -777,7 +777,7 @@
   id: aaai27
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Aug 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -786,13 +786,13 @@
   end: 2027-02-27
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
-  note: 'TBA (~August 2026). Check <a href="https://aaai.org/">here</a> for updates'
+  note: 'Check <a href="https://aaai.org/">here</a> for updates'
 
 - title: ICLR
   year: 2027
   id: iclr27
   link: https://iclr.cc/
-  deadline: 'TBA'
+  deadline: 'TBA (~Sep 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -801,13 +801,13 @@
   end: 2027-04-28
   hindex: 304
   sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
-  note: 'TBA (~September 2026). Check <a href="https://iclr.cc/">here</a> for updates'
+  note: 'Check <a href="https://iclr.cc/">here</a> for updates'
 
 - title: CVPR
   year: 2027
   id: cvpr27
   link: https://cvpr.thecvf.com/
-  deadline: 'TBA'
+  deadline: 'TBA (~Nov 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -816,14 +816,14 @@
   end: 2027-06-20
   hindex: 389
   sub: CV
-  note: 'TBA (~November 2026). Check <a href="https://cvpr.thecvf.com/">here</a> for updates'
+  note: 'Check <a href="https://cvpr.thecvf.com/">here</a> for updates'
 
 - title: WACV
   year: 2027
   id: wacv27
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv.thecvf.com/
-  deadline: 'TBA'
+  deadline: 'TBA (~Jul 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -832,14 +832,14 @@
   end: 2027-03-05
   hindex: 109
   sub: ['ML', 'CV']
-  note: 'TBA (~July 2026). Check <a href="https://wacv.thecvf.com/">here</a> for updates'
+  note: 'Check <a href="https://wacv.thecvf.com/">here</a> for updates'
 
 - title: CHI
   year: 2027
   id: chi27
   full_name: ACM Conference on Human Factors in Computing Systems
   link: https://chi.acm.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Sep 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Pittsburgh, PA, USA
@@ -848,13 +848,13 @@
   end: 2027-05-14
   hindex: 122
   sub: HCI
-  note: 'TBA (~September 2026). Venue confirmed. Check <a href="https://sigchi.org/events/chi-2027/">here</a> for updates'
+  note: 'Venue confirmed. Check <a href="https://sigchi.org/events/chi-2027/">here</a> for updates'
 
 - title: AISTATS
   year: 2027
   id: aistats27
   link: https://aistats.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Oct 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -863,13 +863,13 @@
   end: 2027-05-04
   hindex: 100
   sub: ML
-  note: 'TBA (~October 2026). Check <a href="https://aistats.org/">here</a> for updates'
+  note: 'Check <a href="https://aistats.org/">here</a> for updates'
 
 - title: NAACL
   year: 2027
   id: naacl27
   link: https://naacl.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Dec 2026 ARR)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -878,13 +878,13 @@
   end: 2027-06-06
   hindex: 132
   sub: NLP
-  note: 'TBA (~December 2026 ARR commitment). Uses ACL Rolling Review. Check <a href="https://naacl.org/">here</a> for updates'
+  note: 'Uses ACL Rolling Review. Check <a href="https://naacl.org/">here</a> for updates'
 
 - title: ICRA
   year: 2027
   id: icra27
   link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-  deadline: 'TBA'
+  deadline: 'TBA (~Sep 2026)'
   abstract_deadline: 'TBA'
   timezone: America/Los_Angeles
   place: TBA
@@ -893,14 +893,14 @@
   end: 2027-05-21
   hindex: 119
   sub: RO
-  note: 'TBA (~September 2026). Check IEEE RAS website for updates'
+  note: 'Check IEEE RAS website for updates'
 
 - title: WWW
   year: 2027
   id: www27
   full_name: The Web Conference
   link: https://thewebconf.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Oct 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Dublin, Ireland
@@ -909,14 +909,14 @@
   end: 2027-04-23
   hindex: 100
   sub: DM
-  note: 'TBA (~October 2026). Venue confirmed. Check <a href="https://thewebconf.org/">here</a> for updates'
+  note: 'Venue confirmed. Check <a href="https://thewebconf.org/">here</a> for updates'
 
 - title: WSDM
   year: 2027
   id: wsdm27
   full_name: ACM International Conference on Web Search and Data Mining
   link: https://www.wsdm-conference.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Aug 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -925,14 +925,14 @@
   end: 2027-02-26
   hindex: 100
   sub: DM
-  note: 'TBA (~August 2026). Host bids due Jan 2026. Check <a href="https://www.wsdm-conference.org/">here</a> for updates'
+  note: 'Host bids due Jan 2026. Check <a href="https://www.wsdm-conference.org/">here</a> for updates'
 
 - title: COLING
   year: 2027
   id: coling27
   full_name: International Conference on Computational Linguistics
   link: https://coling2025.org/
-  deadline: 'TBA'
+  deadline: 'TBA (~Sep 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Macau
@@ -941,14 +941,14 @@
   end: 2027-01-05
   hindex: 73
   sub: NLP
-  note: 'TBA (~September 2026). Venue confirmed. Check for updates'
+  note: 'Venue confirmed. Check for updates'
 
 - title: ECIR
   year: 2027
   id: ecir27
   full_name: European Conference on Information Retrieval
   link: https://ecir.eu/
-  deadline: 'TBA'
+  deadline: 'TBA (~Oct 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -957,13 +957,13 @@
   end: 2027-04-10
   hindex: 100
   sub: DM
-  note: 'TBA (~October 2026). Check <a href="https://ecir.eu/">here</a> for updates'
+  note: 'Check <a href="https://ecir.eu/">here</a> for updates'
 
 - title: ICCV
   year: 2027
   id: iccv27
   link: https://iccv.thecvf.com/
-  deadline: 'TBA'
+  deadline: 'TBA (~Mar 2027)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: TBA
@@ -972,7 +972,7 @@
   end: 2027-10-17
   hindex: 298
   sub: CV
-  note: 'TBA (~March 2027). Biennial conference (odd years). Check <a href="https://iccv.thecvf.com/">here</a> for updates'
+  note: 'Biennial conference (odd years). Check <a href="https://iccv.thecvf.com/">here</a> for updates'
 
 - title: ICML
   year: 2025
