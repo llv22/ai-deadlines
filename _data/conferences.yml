@@ -348,16 +348,16 @@
   year: 2026
   id: neurips26
   link: https://neurips.cc/Conferences/2026
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC
-  place: TBD
+  place: TBA
   date: December 6-12, 2026
   start: 2026-12-06
   end: 2026-12-12
   hindex: 309
   sub: ML
-  note: Deadlines TBD, typically mid-May. Check <a href='https://neurips.cc/Conferences/2026'>here</a> for updates
+  note: Deadlines TBA, typically mid-May. Check <a href='https://neurips.cc/Conferences/2026'>here</a> for updates
 
 - title: ICLR
   year: 2026
@@ -531,7 +531,7 @@
   year: 2026
   id: emnlp26
   link: https://2026.emnlp.org/
-  deadline: 'TBD'
+  deadline: 'TBA'
   abstract_deadline: ''
   timezone: UTC-12
   place: Budapest, Hungary
@@ -576,8 +576,8 @@
   year: 2026
   id: acmmm26
   link: https://2026.acmmm.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Rio de Janeiro, Brazil
   date: October 2026
@@ -606,8 +606,8 @@
   year: 2026
   id: siggraph26
   link: https://s2026.siggraph.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC
   place: Los Angeles, USA
   date: July 19-23, 2026
@@ -621,8 +621,8 @@
   year: 2026
   id: recsys26
   link: https://recsys.acm.org/recsys26/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Minneapolis, Minnesota, USA
   date: September 28 - October 2, 2026
@@ -636,8 +636,8 @@
   year: 2026
   id: sigir26
   link: https://sigir2026.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Melbourne, Australia
   date: July 20-24, 2026
@@ -651,8 +651,8 @@
   year: 2026
   id: cikm26
   link: https://cikm2026.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Rome, Italy
   date: October 26-30, 2026
@@ -681,24 +681,24 @@
   year: 2026
   id: corl26
   link: https://www.corl.org/
-  deadline: 'TBD'
+  deadline: 'TBA'
   abstract_deadline: ''
   timezone: UTC-12
   place: Austin, Texas, USA
-  date: TBD
+  date: November 2026
   start: 2026-11-01
   end: 2026-11-04
   hindex: 100
   sub: RO
-  note: Deadlines TBD, typically June. More info <a href='https://www.corl.org/'>here</a>
+  note: Deadlines TBA, typically June. More info <a href='https://www.corl.org/'>here</a>
 
 - title: BMVC
   year: 2026
   id: bmvc26
   full_name: British Machine Vision Conference
   link: https://bmvc2026.bmva.org/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
   timezone: UTC
   place: Lancaster, UK
   date: November 23-26, 2026
