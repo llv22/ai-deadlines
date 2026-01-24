@@ -348,16 +348,16 @@
   year: 2026
   id: neurips26
   link: https://neurips.cc/Conferences/2026
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
-  timezone: UTC
+  deadline: '2026-05-15 23:59:59'
+  abstract_deadline: '2026-05-11 23:59:59'
+  timezone: UTC-12
   place: TBA
   date: December 6-12, 2026
   start: 2026-12-06
   end: 2026-12-12
   hindex: 309
   sub: ML
-  note: Deadlines TBA, typically mid-May. Check <a href='https://neurips.cc/Conferences/2026'>here</a> for updates
+  note: Abstract deadline May 11, paper deadline May 15. More info <a href='https://neurips.cc/Conferences/2026'>here</a>
 
 - title: ICLR
   year: 2026
@@ -621,8 +621,8 @@
   year: 2026
   id: recsys26
   link: https://recsys.acm.org/recsys26/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  deadline: '2026-04-21 23:59:59'
+  abstract_deadline: '2026-04-14 23:59:59'
   timezone: UTC-12
   place: Minneapolis, Minnesota, USA
   date: September 28 - October 2, 2026
@@ -630,14 +630,14 @@
   end: 2026-10-02
   hindex: 100
   sub: DM
-  note: Deadlines TBD. More info <a href='https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/'>here</a>
+  note: Abstract deadline Apr 14. More info <a href='https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/'>here</a>
 
 - title: SIGIR
   year: 2026
   id: sigir26
   link: https://sigir2026.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  deadline: '2026-01-25 23:59:59'
+  abstract_deadline: '2026-01-18 23:59:59'
   timezone: UTC-12
   place: Melbourne, Australia
   date: July 20-24, 2026
@@ -645,14 +645,14 @@
   end: 2026-07-24
   hindex: 100
   sub: DM
-  note: Deadlines TBD, typically December. More info <a href='https://sigir2026.org/en-AU/pages/attending/key-dates'>here</a>
+  note: Abstract deadline Jan 18. More info <a href='https://sigir2026.org/en-AU/pages/submissions/full-papers-track'>here</a>
 
 - title: CIKM
   year: 2026
   id: cikm26
   link: https://cikm2026.org/
-  deadline: 'TBA'
-  abstract_deadline: 'TBA'
+  deadline: '2026-05-30 23:59:59'
+  abstract_deadline: '2026-05-23 23:59:59'
   timezone: UTC-12
   place: Rome, Italy
   date: October 26-30, 2026
@@ -660,7 +660,7 @@
   end: 2026-10-30
   hindex: 100
   sub: DM
-  note: Deadlines TBD, typically May. More info when available
+  note: Abstract deadline May 23 (estimated based on CIKM 2025 pattern). More info when available
 
 - title: ECML PKDD
   year: 2026
@@ -706,7 +706,69 @@
   end: 2026-11-26
   hindex: 100
   sub: ['ML', 'CV']
-  note: Deadlines TBD. More info <a href='https://bmvc2026.bmva.org/'>here</a>
+  note: Deadlines TBA. More info <a href='https://bmvc2026.bmva.org/'>here</a>
+
+- title: UAI
+  year: 2026
+  id: uai26
+  full_name: Conference on Uncertainty in Artificial Intelligence
+  link: https://www.auai.org/uai2026/
+  deadline: '2026-02-25 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Amsterdam, Netherlands
+  date: August 17-21, 2026
+  start: 2026-08-17
+  end: 2026-08-21
+  hindex: 33
+  sub: ML
+  note: Rebuttal period Apr 23 - May 2. More info <a href='https://www.auai.org/uai2026/'>here</a>
+
+- title: INTERSPEECH
+  year: 2026
+  id: interspeech26
+  link: https://interspeech2026.org/
+  deadline: '2026-02-25 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Sydney, Australia
+  date: September 28 - October 1, 2026
+  start: 2026-09-28
+  end: 2026-10-01
+  hindex: 100
+  sub: SP
+  note: Long paper track available. More info <a href='https://interspeech2026.org/en-AU/pages/calls/call-for-papers'>here</a>
+
+- title: MICCAI
+  year: 2026
+  id: miccai26
+  full_name: Medical Image Computing and Computer Assisted Intervention
+  link: https://conferences.miccai.org/2026/
+  deadline: '2026-02-26 23:59:59'
+  abstract_deadline: '2026-02-12 23:59:59'
+  timezone: America/Los_Angeles
+  place: ADNEC Centre, Abu Dhabi, UAE
+  date: October 4-8, 2026
+  start: 2026-10-04
+  end: 2026-10-08
+  hindex: 100
+  sub: CV
+  note: Intention to submit deadline Feb 12. More info <a href='https://conferences.miccai.org/2026/en/IMPORTANT-DATES.html'>here</a>
+
+- title: SIGGRAPH Asia
+  year: 2026
+  id: siggraphasia26
+  link: https://asia.siggraph.org/2026/
+  deadline: 'TBA'
+  abstract_deadline: 'TBA'
+  timezone: UTC
+  place: Kuala Lumpur, Malaysia
+  date: December 1-4, 2026
+  start: 2026-12-01
+  end: 2026-12-04
+  hindex: 100
+  sub: CG
+  note: Submission portal opens March 2026. More info <a href='https://asia.siggraph.org/2026/submissions/'>here</a>
 
 - title: ICML
   year: 2025
