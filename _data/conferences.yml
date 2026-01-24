@@ -770,7 +770,55 @@
   sub: CG
   note: Submission portal opens March 2026. More info <a href='https://asia.siggraph.org/2026/submissions/'>here</a>
 
+- title: JMM
+  year: 2026
+  id: jmm26
+  full_name: Joint Mathematics Meetings
+  link: https://jointmathematicsmeetings.org/jmm
+  deadline: '2025-09-09 23:59:59'
+  abstract_deadline: ''
+  timezone: America/New_York
+  place: Washington, D.C., USA
+  date: January 4-7, 2026
+  start: 2026-01-04
+  end: 2026-01-07
+  hindex: 50
+  sub: AP
+  note: Abstract submission deadline. More info <a href='https://meetings.ams.org/math/jmm2026/cfp.cgi'>here</a>
+
+- title: Computing Conference
+  year: 2026
+  id: computing26
+  full_name: SAI Computing Conference
+  link: https://saiconference.com/Computing
+  deadline: '2025-12-15 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC
+  place: London, UK
+  date: July 9-10, 2026
+  start: 2026-07-09
+  end: 2026-07-10
+  hindex: 30
+  sub: ['ML', 'AP']
+  note: Published by Springer LNNS. More info <a href='https://saiconference.com/Computing/CallforPapers'>here</a>
+
 # ============ 2027 Conferences ============
+
+- title: JMM
+  year: 2027
+  id: jmm27
+  full_name: Joint Mathematics Meetings
+  link: https://jointmathematicsmeetings.org/jmm
+  deadline: 'TBA (~Sep 2026)'
+  abstract_deadline: ''
+  timezone: America/New_York
+  place: Chicago, IL, USA
+  date: January 12-15, 2027
+  start: 2027-01-12
+  end: 2027-01-15
+  hindex: 50
+  sub: AP
+  note: McCormick Place venue. Check <a href='https://www.ams.org/national-index'>here</a> for updates
 
 - title: AAAI
   year: 2027
