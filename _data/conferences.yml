@@ -302,17 +302,17 @@
 - title: ECCV
   year: 2026
   id: eccv26
-  link: https://eccv.ecva.net/
-  deadline: 'TBD'
-  abstract_deadline: 'TBD'
-  timezone: America/Los_Angeles
+  link: https://eccv.ecva.net/Conferences/2026
+  deadline: '2026-03-05 23:59:59'
+  abstract_deadline: '2026-02-26 23:59:59'
+  timezone: UTC-12
   place: Malmö, Sweden
   date: September 8 - 13, 2026
   start: 2026-09-08
   end: 2026-09-13
   hindex: 238
   sub: CV
-  note: Deadlines TBD. Check <a href='https://eccv.ecva.net/Conferences/2026/Dates'>here</a> for updates
+  note: Paper registration deadline Feb 26, supplementary materials deadline Mar 12. More info <a href='https://eccv.ecva.net/Conferences/2026/Dates'>here</a>
 
 - title: AAAI
   year: 2026
@@ -325,9 +325,388 @@
   date: January 20 - 27, 2026
   start: 2026-01-20
   end: 2026-01-27
+  hindex: 212
+  sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
+  note: More info <a href='https://aaai.org/conference/aaai/aaai-26/'>here</a>
+
+- title: ICML
+  year: 2026
+  id: icml26
+  link: https://icml.cc/Conferences/2026
+  deadline: '2026-01-29 12:00:00'
+  abstract_deadline: '2026-01-24 12:00:00'
+  timezone: UTC
+  place: Coex Convention Center, Seoul, Korea
+  date: July 6-11, 2026
+  start: 2026-07-06
+  end: 2026-07-11
+  hindex: 320
+  sub: ML
+  note: Abstract deadline Jan 24 (noon UTC), paper deadline Jan 29 (noon UTC). More info <a href='https://icml.cc/Conferences/2026/CallForPapers'>here</a>
+
+- title: NeurIPS
+  year: 2026
+  id: neurips26
+  link: https://neurips.cc/Conferences/2026
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC
+  place: TBD
+  date: December 6-12, 2026
+  start: 2026-12-06
+  end: 2026-12-12
+  hindex: 309
+  sub: ML
+  note: Deadlines TBD, typically mid-May. Check <a href='https://neurips.cc/Conferences/2026'>here</a> for updates
+
+- title: ICLR
+  year: 2026
+  id: iclr26
+  link: https://iclr.cc/Conferences/2026
+  deadline: '2025-09-24 23:59:59'
+  abstract_deadline: '2025-09-19 23:59:59'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: April 24-28, 2026
+  start: 2026-04-24
+  end: 2026-04-28
+  hindex: 304
+  sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
+  note: Mandatory abstract deadline Sep 19, 2025. More info <a href='https://iclr.cc/Conferences/2026/CallForPapers'>here</a>
+
+- title: CVPR
+  year: 2026
+  id: cvpr26
+  link: https://cvpr.thecvf.com/Conferences/2026
+  deadline: '2025-11-13 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Denver Convention Center, USA
+  date: June 3-7, 2026
+  start: 2026-06-03
+  end: 2026-06-07
+  hindex: 389
+  sub: CV
+  note: Supplementary materials due Nov 20, 2025. More info <a href='https://cvpr.thecvf.com/Conferences/2026/CallForPapers'>here</a>
+
+- title: IJCAI-ECAI
+  year: 2026
+  id: ijcai26
+  link: https://2026.ijcai.org/
+  deadline: '2026-01-19 23:59:59'
+  abstract_deadline: '2026-01-12 23:59:59'
+  timezone: UTC-12
+  place: Bremen, Germany
+  date: August 15-21, 2026
+  start: 2026-08-15
+  end: 2026-08-21
+  hindex: 145
+  sub: ['ML', 'KR', 'RO', 'NLP', 'CV', 'AP']
+  note: Abstract deadline Jan 12. Joint IJCAI-ECAI conference. More info <a href='https://2026.ijcai.org/important-dates/'>here</a>
+
+- title: ACL
+  year: 2026
+  id: acl26
+  link: https://2026.aclweb.org/
+  deadline: '2026-03-14 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: San Diego, California, USA
+  date: July 2-7, 2026
+  start: 2026-07-02
+  end: 2026-07-07
+  hindex: 200
+  sub: NLP
+  note: ARR commitment deadline Mar 14. Submit to ARR Oct 2025 or Jan 2026 cycle. More info <a href='https://2026.aclweb.org/'>here</a>
+
+- title: KDD
+  year: 2026
+  id: kdd26
+  link: https://kdd2026.kdd.org/
+  deadline: '2026-01-28 23:59:59'
+  abstract_deadline: '2025-07-24 23:59:59'
+  timezone: UTC-12
+  place: Jeju, Korea
+  date: August 9-13, 2026
+  start: 2026-08-09
+  end: 2026-08-13
+  hindex: 156
+  sub: DM
+  note: Two submission cycles. First cycle deadline Jul 24/31, 2025. Second cycle Jan 28, 2026. More info <a href='https://kdd2026.kdd.org/research-track-call-for-papers/'>here</a>
+
+- title: ICRA
+  year: 2026
+  id: icra26
+  link: https://2026.ieee-icra.org/
+  deadline: '2025-09-15 23:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Vienna, Austria
+  date: June 1-5, 2026
+  start: 2026-06-01
+  end: 2026-06-05
+  hindex: 119
+  sub: RO
+  note: More info <a href='https://2026.ieee-icra.org/'>here</a>
+
+- title: IROS
+  year: 2026
+  id: iros26
+  link: https://2026.ieee-iros.org/
+  deadline: '2026-03-02 23:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Pittsburgh, Pennsylvania, USA
+  date: September 27 - October 1, 2026
+  start: 2026-09-27
+  end: 2026-10-01
+  hindex: 80
+  sub: RO
+  note: Video submission deadline Mar 5. More info <a href='https://2026.ieee-iros.org/'>here</a>
+
+- title: CHI
+  year: 2026
+  id: chi26
+  full_name: The ACM Conference on Human Factors in Computing Systems
+  link: https://chi2026.acm.org/
+  deadline: '2025-09-11 23:59:59'
+  abstract_deadline: '2025-09-04 23:59:59'
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: April 26 - May 1, 2026
+  start: 2026-04-26
+  end: 2026-05-01
+  hindex: 122
+  sub: HCI
+  note: Mandatory abstract deadline Sep 4, 2025. More info <a href='https://chi2026.acm.org/authors/papers/'>here</a>
+
+- title: AISTATS
+  year: 2026
+  id: aistats26
+  link: https://aistats.org/aistats2026/
+  deadline: '2025-10-02 23:59:59'
+  abstract_deadline: '2025-09-25 23:59:59'
+  timezone: UTC-12
+  place: Tangier, Morocco
+  date: May 2-5, 2026
+  start: 2026-05-02
+  end: 2026-05-05
   hindex: 100
   sub: ML
-  note: Deadlines adjusted in <a href='https://aaai.org/conference/aaai/aaai-26/'>here</a>
+  note: Mandatory abstract deadline Sep 25, 2025. More info <a href='https://virtual.aistats.org/Conferences/2026/CallForPapers'>here</a>
+
+- title: WACV
+  year: 2026
+  id: wacv26
+  full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
+  link: https://wacv.thecvf.com/Conferences/2026
+  deadline: '2025-07-18 23:59:59'
+  abstract_deadline: '2025-07-11 23:59:59'
+  timezone: UTC-12
+  place: Tucson, Arizona, USA
+  date: March 6-10, 2026
+  start: 2026-03-06
+  end: 2026-03-10
+  hindex: 109
+  sub: ['ML', 'CV']
+  note: Round 1. Registration Jul 11, submission Jul 18. Round 2 registration Sep 12, submission Sep 19. More info <a href='https://wacv.thecvf.com/Conferences/2026/CallForPapers'>here</a>
+
+- title: EACL
+  year: 2026
+  id: eacl26
+  full_name: European Chapter of the Association for Computational Linguistics
+  link: https://2026.eacl.org/
+  deadline: '2025-12-14 23:59:59'
+  abstract_deadline: '2025-10-06 23:59:59'
+  timezone: UTC-12
+  place: Rabat, Morocco
+  date: March 24-29, 2026
+  start: 2026-03-24
+  end: 2026-03-29
+  hindex: 73
+  sub: NLP
+  note: ARR submission Oct 6, commitment deadline Dec 14. More info <a href='https://2026.eacl.org/calls/papers/'>here</a>
+
+- title: EMNLP
+  year: 2026
+  id: emnlp26
+  link: https://2026.emnlp.org/
+  deadline: 'TBD'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Budapest, Hungary
+  date: October 24-29, 2026
+  start: 2026-10-24
+  end: 2026-10-29
+  hindex: 100
+  sub: ['NLP', 'SP']
+  note: Uses ARR. Commitment deadline TBD. More info at <a href='https://aclrollingreview.org/dates'>ARR dates</a>
+
+- title: ICASSP
+  year: 2026
+  id: icassp26
+  link: https://2026.ieeeicassp.org/
+  deadline: '2025-09-17 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Barcelona, Spain
+  date: May 4-8, 2026
+  start: 2026-05-04
+  end: 2026-05-08
+  hindex: 100
+  sub: SP
+  note: More info <a href='https://2026.ieeeicassp.org/call-for-papers/'>here</a>
+
+- title: AAMAS
+  year: 2026
+  id: aamas26
+  link: https://cyprusconferences.org/aamas2026/
+  deadline: '2025-10-08 23:59:59'
+  abstract_deadline: '2025-10-01 23:59:59'
+  timezone: UTC-12
+  place: Paphos, Cyprus
+  date: May 25-29, 2026
+  start: 2026-05-25
+  end: 2026-05-29
+  hindex: 100
+  sub: ['KR', 'ML', 'RO', 'AP']
+  note: Mandatory abstract deadline Oct 1, 2025. More info <a href='https://cyprusconferences.org/aamas2026/'>here</a>
+
+- title: ACM MM
+  year: 2026
+  id: acmmm26
+  link: https://2026.acmmm.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC-12
+  place: Rio de Janeiro, Brazil
+  date: October 2026
+  start: 2026-10-01
+  end: 2026-10-05
+  hindex: 100
+  sub: CV
+  note: Deadlines TBD, typically April. More info <a href='https://2026.acmmm.org/'>here</a>
+
+- title: COLM
+  year: 2026
+  id: colm26
+  link: https://colmweb.org/
+  deadline: '2026-03-31 23:59:59'
+  abstract_deadline: '2026-03-26 23:59:59'
+  timezone: UTC-12
+  place: Hilton Union Square, San Francisco, USA
+  date: October 6-9, 2026
+  start: 2026-10-06
+  end: 2026-10-09
+  hindex: 100
+  sub: NLP
+  note: Mandatory abstract deadline Mar 26. More info <a href='https://colmweb.org/cfp.html'>here</a>
+
+- title: SIGGRAPH
+  year: 2026
+  id: siggraph26
+  link: https://s2026.siggraph.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC
+  place: Los Angeles, USA
+  date: July 19-23, 2026
+  start: 2026-07-19
+  end: 2026-07-23
+  hindex: 100
+  sub: CG
+  note: Technical papers deadline passed. More info <a href='https://s2026.siggraph.org/'>here</a>
+
+- title: RecSys
+  year: 2026
+  id: recsys26
+  link: https://recsys.acm.org/recsys26/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC-12
+  place: Minneapolis, Minnesota, USA
+  date: September 28 - October 2, 2026
+  start: 2026-09-28
+  end: 2026-10-02
+  hindex: 100
+  sub: DM
+  note: Deadlines TBD. More info <a href='https://recsys.acm.org/recsys26/recsys-26-call-for-contributions/'>here</a>
+
+- title: SIGIR
+  year: 2026
+  id: sigir26
+  link: https://sigir2026.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC-12
+  place: Melbourne, Australia
+  date: July 20-24, 2026
+  start: 2026-07-20
+  end: 2026-07-24
+  hindex: 100
+  sub: DM
+  note: Deadlines TBD, typically December. More info <a href='https://sigir2026.org/en-AU/pages/attending/key-dates'>here</a>
+
+- title: CIKM
+  year: 2026
+  id: cikm26
+  link: https://cikm2026.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC-12
+  place: Rome, Italy
+  date: October 26-30, 2026
+  start: 2026-10-26
+  end: 2026-10-30
+  hindex: 100
+  sub: DM
+  note: Deadlines TBD, typically May. More info when available
+
+- title: ECML PKDD
+  year: 2026
+  id: ecmlpkdd26
+  link: https://ecmlpkdd.org/2026/
+  deadline: '2026-01-15 23:59:59'
+  abstract_deadline: '2025-10-30 23:59:59'
+  timezone: UTC-12
+  place: Naples, Italy
+  date: September 2026
+  start: 2026-09-14
+  end: 2026-09-18
+  hindex: 45
+  sub: ML
+  note: Journal track deadlines. 1st deadline Oct 30, 2025. 2nd deadline Jan 15, 2026. More info <a href='https://ecmlpkdd.org/2026/submissions-journal-track/'>here</a>
+
+- title: CoRL
+  year: 2026
+  id: corl26
+  link: https://www.corl.org/
+  deadline: 'TBD'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Austin, Texas, USA
+  date: TBD
+  start: 2026-11-01
+  end: 2026-11-04
+  hindex: 100
+  sub: RO
+  note: Deadlines TBD, typically June. More info <a href='https://www.corl.org/'>here</a>
+
+- title: BMVC
+  year: 2026
+  id: bmvc26
+  full_name: British Machine Vision Conference
+  link: https://bmvc2026.bmva.org/
+  deadline: 'TBD'
+  abstract_deadline: 'TBD'
+  timezone: UTC
+  place: Lancaster, UK
+  date: November 23-26, 2026
+  start: 2026-11-23
+  end: 2026-11-26
+  hindex: 100
+  sub: ['ML', 'CV']
+  note: Deadlines TBD. More info <a href='https://bmvc2026.bmva.org/'>here</a>
 
 - title: ICML
   year: 2025
