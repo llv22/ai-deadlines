@@ -580,12 +580,12 @@
   abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Rio de Janeiro, Brazil
-  date: October 2026
-  start: 2026-10-01
-  end: 2026-10-05
+  date: November 10-14, 2026
+  start: 2026-11-10
+  end: 2026-11-14
   hindex: 100
   sub: CV
-  note: Deadlines TBA, typically April. More info <a href='https://2026.acmmm.org/'>here</a>
+  note: Deadlines TBA, typically April. Updated topics of interest announced Jan 2026. More info <a href='https://2026.acmmm.org/'>here</a>
 
 - title: COLM
   year: 2026
@@ -681,16 +681,16 @@
   year: 2026
   id: corl26
   link: https://www.corl.org/
-  deadline: 'TBA (~June 2026)'
+  deadline: '2026-05-28 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
-  place: Austin, Texas, USA
-  date: November 2026
-  start: 2026-11-01
-  end: 2026-11-04
+  place: JW Marriott Austin, Texas, USA
+  date: November 9-12, 2026
+  start: 2026-11-09
+  end: 2026-11-12
   hindex: 100
   sub: RO
-  note: Deadlines TBA, typically June. More info <a href='https://www.corl.org/'>here</a>
+  note: Workshops Nov 9, main conference Nov 10-12. More info <a href='https://www.corl.org/contributions'>here</a>
 
 - title: BMVC
   year: 2026
