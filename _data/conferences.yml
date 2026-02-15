@@ -2736,6 +2736,22 @@
   sub: CV
 
 - title: COLT
+  year: 2026
+  id: colt26
+  full_name: Conference on Learning Theory
+  link: https://learningtheory.org/colt2026/
+  deadline: '2026-02-04 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: San Diego, California, USA
+  date: June 29 - July 3, 2026
+  start: 2026-06-29
+  end: 2026-07-03
+  hindex: 48
+  sub: ML
+  note: More info <a href='https://learningtheory.org/colt2026/'>here</a>
+
+- title: COLT
   year: 2020
   id: colt20
   link: http://www.learningtheory.org/colt2020/
