@@ -303,8 +303,8 @@
   year: 2026
   id: eccv26
   link: https://eccv.ecva.net/Conferences/2026
-  deadline: '2026-03-05 23:59:59'
-  abstract_deadline: '2026-02-26 23:59:59'
+  deadline: '2026-03-05 23:00:00'
+  abstract_deadline: '2026-02-26 23:00:00'
   timezone: Europe/Berlin
   place: Malmö, Sweden
   date: September 8 - 13, 2026
