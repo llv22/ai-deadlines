@@ -423,8 +423,8 @@
   year: 2026
   id: kdd26
   link: https://kdd2026.kdd.org/
-  deadline: '2026-01-28 23:59:59'
-  abstract_deadline: '2025-07-24 23:59:59'
+  deadline: '2026-02-08 23:59:59'
+  abstract_deadline: '2026-02-01 23:59:59'
   timezone: UTC-12
   place: Jeju, Korea
   date: August 9-13, 2026
@@ -432,7 +432,7 @@
   end: 2026-08-13
   hindex: 156
   sub: DM
-  note: Two submission cycles. First cycle deadline Jul 24/31, 2025. Second cycle Jan 28, 2026. More info <a href='https://kdd2026.kdd.org/research-track-call-for-papers/'>here</a>
+  note: Two submission cycles. Cycle 2 abstract Feb 1, paper Feb 8, 2026. Rebuttal Apr 4-17, notification May 16. More info <a href='https://kdd2026.kdd.org/research-track-call-for-papers/'>here</a>
 
 - title: ICRA
   year: 2026
