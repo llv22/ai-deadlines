@@ -991,6 +991,22 @@
   note: 'Check IEEE RAS website for updates'
 
 - title: WWW
+  year: 2026
+  id: www26
+  full_name: The Web Conference
+  link: https://www2026.thewebconf.org/
+  deadline: '2025-10-07 23:59:59'
+  abstract_deadline: '2025-09-30 23:59:59'
+  timezone: UTC-12
+  place: Dubai, United Arab Emirates
+  date: April 13-17, 2026
+  start: 2026-04-13
+  end: 2026-04-17
+  hindex: 100
+  sub: DM
+  note: Mandatory abstract deadline Sep 30, 2025. Acceptance rate 20.1% for Research track. More info <a href='https://www2026.thewebconf.org/'>here</a>
+
+- title: WWW
   year: 2027
   id: www27
   full_name: The Web Conference
