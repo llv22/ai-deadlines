@@ -531,7 +531,7 @@
   year: 2026
   id: emnlp26
   link: https://2026.emnlp.org/
-  deadline: 'TBA (~June 2026 ARR)'
+  deadline: '2026-08-02 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Budapest, Hungary
@@ -540,7 +540,7 @@
   end: 2026-10-29
   hindex: 100
   sub: ['NLP', 'SP']
-  note: Uses ARR. Commitment deadline TBA. More info at <a href='https://aclrollingreview.org/dates'>ARR dates</a>
+  note: ARR submission deadline May 25, 2026. Commitment deadline Aug 2, 2026. More info <a href='https://2026.emnlp.org/'>here</a>
 
 - title: ICASSP
   year: 2026
