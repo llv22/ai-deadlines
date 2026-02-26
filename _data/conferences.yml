@@ -379,7 +379,7 @@
   id: cvpr26
   link: https://cvpr.thecvf.com/Conferences/2026
   deadline: '2025-11-13 23:59:59'
-  abstract_deadline: ''
+  abstract_deadline: '2025-11-07 23:59:59'
   timezone: UTC-12
   place: Denver Convention Center, USA
   date: June 3-7, 2026
@@ -387,7 +387,7 @@
   end: 2026-06-07
   hindex: 389
   sub: CV
-  note: Supplementary materials due Nov 20, 2025. More info <a href='https://cvpr.thecvf.com/Conferences/2026/CallForPapers'>here</a>
+  note: Abstract deadline Nov 7, paper deadline Nov 13, supplementary materials due Nov 20, 2025. Reviews released Jan 22, rebuttal Jan 22-29, decisions Feb 20. More info <a href='https://cvpr.thecvf.com/Conferences/2026/CallForPapers'>here</a>
 
 - title: IJCAI-ECAI
   year: 2026
