@@ -697,16 +697,16 @@
   id: bmvc26
   full_name: British Machine Vision Conference
   link: https://bmvc2026.bmva.org/
-  deadline: 'TBA (~May 2026)'
-  abstract_deadline: 'TBA'
-  timezone: UTC
+  deadline: '2026-05-29 23:59:59'
+  abstract_deadline: '2026-05-22 23:59:59'
+  timezone: UTC-12
   place: Lancaster, UK
   date: November 23-26, 2026
   start: 2026-11-23
   end: 2026-11-26
   hindex: 100
   sub: ['ML', 'CV']
-  note: Deadlines TBA. More info <a href='https://bmvc2026.bmva.org/'>here</a>
+  note: Abstract deadline May 22. Rebuttal Jul 3-10. More info <a href='https://bmvc2026.bmva.org/calls/call-for-papers/'>here</a>
 
 - title: UAI
   year: 2026
