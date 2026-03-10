@@ -146,12 +146,6 @@
     </div>
     <script type="text/javascript" charset="utf-8">
     $(function() {
-        // Make sure this is >= no. of subs
-        // Currently not used
-        var colors = ['#341f97', '#ee5253', '#2e86de',
-                      '#ff9f43', '#10ac84', '#222f3e']
-
-        
         {% include load_data.js %}
         {% include utils.js %}
         {% include multiselect_handler.js %}
@@ -210,7 +204,7 @@
 
           // check if date has passed, add 'past' class to it
           var today = moment();
-          diff = today.diff(confDate);
+          var diff = today.diff(confDate);
 
           $('#{{conf.id}}').attr("diff", diff)
           if (diff > 0) {

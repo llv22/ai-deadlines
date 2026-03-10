@@ -11,14 +11,7 @@ from shutil import copyfile
 from builtins import input
 import pytz
 
-import pdb
-
-try:
-    # for python newer than 2.7
-    from collections import OrderedDict
-except ImportError:
-    # use backport from pypi
-    from ordereddict import OrderedDict
+from collections import OrderedDict
 
 try:
     from yaml import CLoader as Loader, CDumper as Dumper
@@ -29,7 +22,7 @@ _mapping_tag = yaml.resolver.BaseResolver.DEFAULT_MAPPING_TAG
 
 
 def dict_representer(dumper, data):
-    return dumper.represent_dict(data.iteritems())
+    return dumper.represent_dict(data.items())
 
 
 def dict_constructor(loader, node):
@@ -56,6 +49,14 @@ def ordered_dump(data, stream=None, Dumper=yaml.Dumper, **kwds):
 
 dateformat = '%Y-%m-%d %H:%M:%S'
 tba_words = ["tba", "tbd"]
+
+
+def deadline_to_utc(conf):
+    """Convert a conference deadline to a normalized UTC datetime."""
+    tz_name = conf['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')
+    tz = pytz.timezone(tz_name)
+    dt = datetime.datetime.strptime(conf['deadline'], dateformat).replace(tzinfo=tz)
+    return pytz.utc.normalize(dt)
 
 right_now = datetime.datetime.utcnow().replace(
     microsecond=0).strftime(dateformat)
@@ -107,12 +108,12 @@ with open("../_data/conferences.yml", 'r') as stream:
         tba = [x for x in data if x['deadline'].lower() in tba_words]
 
         # just sort:
-        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))))
+        conf.sort(key=deadline_to_utc)
         print("Date Sorting:")
         for q in conf + tba:
             print(q["deadline"], " - ", q["title"])
         print("\n\n")
-        conf.sort(key=lambda x: pytz.utc.normalize(datetime.datetime.strptime(x['deadline'], dateformat).replace(tzinfo=pytz.timezone(x['timezone'].replace('UTC+', 'Etc/GMT-').replace('UTC-', 'Etc/GMT+')))).strftime(dateformat) < right_now)
+        conf.sort(key=lambda x: deadline_to_utc(x).strftime(dateformat) < right_now)
         print("Date and Passed Deadline Sorting with tba:")
         for q in conf + tba:
             print(q["deadline"], " - ", q["title"])
