@@ -1,4 +1,5 @@
 
+      var _today = new Date();
       // calendar data template
       var calendar_data = {
         clickDay: function (e) {
@@ -17,7 +18,7 @@
               var break_html = '<hr>';
 
               var location_html = '<img src="{{site.baseurl}}/ai-deadlines/static/img/072-location.svg" className="own-badge"/>&nbsp;' + e.events[i].location;
-              var date_html = '<img src="{{site.baseurl}}/ai-dealines/static/img/084-calendar.svg" className="own-badge"/>&nbsp;' + e.events[i].date;
+              var date_html = '<img src="{{site.baseurl}}/ai-deadlines/static/img/084-calendar.svg" className="own-badge"/>&nbsp;' + e.events[i].date;
 
               var badges_html = "";
               var subs = e.events[i].subject.split(',');
@@ -36,7 +37,6 @@
 
               if (e.events[i].id.endsWith("deadline")) {
                 headline_color = 'deadline-text';
-              } else {
               }
               content +=
                 '<div class="event-tooltip-content">' +
@@ -70,9 +70,8 @@
           }
         },
         customDayRenderer: function (cellContent, currentDate) {
-          var today = new Date();
           // render today
-          if (today.getFullYear() === currentDate.getFullYear() && today.getMonth() === currentDate.getMonth() && today.getDate() === currentDate.getDate()) {
+          if (_today.getFullYear() === currentDate.getFullYear() && _today.getMonth() === currentDate.getMonth() && _today.getDate() === currentDate.getDate()) {
             cellContent.style = "background-color: gray;";
           }
         },
@@ -86,6 +85,7 @@ function load_conference_list() {
   var conf_list_all = [];
   {% for conf in site.data.conferences %}
     // add deadlines in red
+    var deadlineDate = Date.parse("{{conf.deadline}}");
     conf_list_all.push({
       id: "{{conf.id}}-deadline",
       abbreviation: "{{conf.id}}",
@@ -95,8 +95,8 @@ function load_conference_list() {
       date: "{{conf.date}}",
       hindex: "{{conf.hindex}}",
       subject: "{{conf.sub}}",
-      startDate: Date.parse("{{conf.deadline}}"),
-      endDate: Date.parse("{{conf.deadline}}"),
+      startDate: deadlineDate,
+      endDate: deadlineDate,
     });
 
     // add Conferences in chosen color
