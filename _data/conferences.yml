@@ -348,8 +348,8 @@
   year: 2026
   id: neurips26
   link: https://neurips.cc/Conferences/2026
-  deadline: '2026-05-15 23:59:59'
-  abstract_deadline: '2026-05-11 23:59:59'
+  deadline: '2026-05-06 23:59:59'
+  abstract_deadline: '2026-05-04 23:59:59'
   timezone: UTC-12
   place: Sydney, Australia
   date: December 6-12, 2026
@@ -357,7 +357,7 @@
   end: 2026-12-12
   hindex: 309
   sub: ML
-  note: Abstract deadline May 11, paper deadline May 15. More info <a href='https://neurips.cc/Conferences/2026'>here</a>
+  note: Abstract deadline May 4, paper deadline May 6 (AOE). More info <a href='https://neurips.cc/Conferences/2026/CallForPapers'>here</a>
 
 - title: ICLR
   year: 2026
@@ -408,7 +408,7 @@
   year: 2026
   id: acl26
   link: https://2026.aclweb.org/
-  deadline: '2026-03-14 23:59:59'
+  deadline: '2026-01-05 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: San Diego, California, USA
@@ -417,7 +417,7 @@
   end: 2026-07-07
   hindex: 200
   sub: NLP
-  note: ARR commitment deadline Mar 14. Submit to ARR Oct 2025 or Jan 2026 cycle. More info <a href='https://2026.aclweb.org/'>here</a>
+  note: ARR submission deadline Jan 5, 2026 (January cycle). Commitment deadline Mar 14. More info <a href='https://2026.aclweb.org/calls/main_conference_papers/'>here</a>
 
 - title: KDD
   year: 2026
