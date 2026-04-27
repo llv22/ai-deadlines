@@ -650,17 +650,17 @@
 - title: CIKM
   year: 2026
   id: cikm26
-  link: https://cikm2026.org/
-  deadline: '2026-05-30 23:59:59'
-  abstract_deadline: '2026-05-23 23:59:59'
+  link: https://cikm2026.diag.uniroma1.it/
+  deadline: '2026-05-23 23:59:59'
+  abstract_deadline: '2026-05-16 23:59:59'
   timezone: UTC-12
   place: Rome, Italy
-  date: October 26-30, 2026
-  start: 2026-10-26
-  end: 2026-10-30
+  date: November 7-11, 2026
+  start: 2026-11-07
+  end: 2026-11-11
   hindex: 100
   sub: DM
-  note: Abstract deadline May 23 (estimated based on CIKM 2025 pattern). More info when available
+  note: Full paper abstract May 16, full paper May 23 (AoE). More info <a href='https://cikm2026.diag.uniroma1.it/important-dates/'>here</a>
 
 - title: ECML PKDD
   year: 2026
@@ -871,17 +871,17 @@
   year: 2027
   id: aaai27
   full_name: AAAI Conference on Artificial Intelligence
-  link: https://aaai.org/
+  link: https://aaai.org/conference/aaai/aaai-27/
   deadline: 'TBA (~Aug 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
-  place: TBA
-  date: February 2027
-  start: 2027-02-20
-  end: 2027-02-27
+  place: Montréal, Québec, Canada
+  date: February 16-23, 2027
+  start: 2027-02-16
+  end: 2027-02-23
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
-  note: 'Check <a href="https://aaai.org/">here</a> for updates'
+  note: 'Submission deadline TBA (~Aug 2026). Check <a href="https://aaai.org/conference/aaai/aaai-27/">here</a> for updates'
 
 - title: ICLR
   year: 2027
