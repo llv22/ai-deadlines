@@ -606,8 +606,8 @@
   year: 2026
   id: siggraph26
   link: https://s2026.siggraph.org/
-  deadline: 'TBA (Papers closed)'
-  abstract_deadline: 'TBA'
+  deadline: '2026-01-23 22:00:00'
+  abstract_deadline: '2026-01-15 22:00:00'
   timezone: UTC
   place: Los Angeles, USA
   date: July 19-23, 2026
@@ -615,7 +615,7 @@
   end: 2026-07-23
   hindex: 100
   sub: CG
-  note: Technical papers deadline passed. More info <a href='https://s2026.siggraph.org/'>here</a>
+  note: Submission form (title, abstract, authors) due Jan 15. Full paper and upload deadline Jan 23, 22:00 UTC. More info <a href='https://s2026.siggraph.org/program/technical-papers/'>here</a>
 
 - title: RecSys
   year: 2026
@@ -872,16 +872,16 @@
   id: aaai27
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-27/
-  deadline: 'TBA (~Aug 2026)'
-  abstract_deadline: 'TBA'
+  deadline: '2026-08-01 23:59:59'
+  abstract_deadline: '2026-07-25 23:59:59'
   timezone: UTC-12
-  place: Montréal, Québec, Canada
+  place: Palais des congrès de Montréal, Québec, Canada
   date: February 16-23, 2027
   start: 2027-02-16
   end: 2027-02-23
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
-  note: 'Submission deadline TBA (~Aug 2026). Check <a href="https://aaai.org/conference/aaai/aaai-27/">here</a> for updates'
+  note: 'Abstract deadline Jul 25, paper deadline Aug 1, 2026. Rebuttal Oct 2-8. Notification Nov 3, 2026. More info <a href="https://aaai.org/conference/aaai/aaai-27/">here</a>'
 
 - title: ICLR
   year: 2027
@@ -917,17 +917,17 @@
   year: 2027
   id: wacv27
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
-  link: https://wacv.thecvf.com/
+  link: https://wacv.thecvf.com/Conferences/2027
   deadline: 'TBA (~Jul 2026)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
-  place: TBA
-  date: March 2027
-  start: 2027-03-01
-  end: 2027-03-05
+  place: Disney Springs, Lake Buena Vista, Florida, USA
+  date: January 5-9, 2027
+  start: 2027-01-05
+  end: 2027-01-09
   hindex: 109
   sub: ['ML', 'CV']
-  note: 'Check <a href="https://wacv.thecvf.com/">here</a> for updates'
+  note: 'Venue confirmed at Disney Springs. Submission deadlines TBA. Check <a href="https://wacv.thecvf.com/Conferences/2027/Dates">here</a> for updates'
 
 - title: CHI
   year: 2027
@@ -982,13 +982,13 @@
   deadline: 'TBA (~Sep 2026)'
   abstract_deadline: 'TBA'
   timezone: America/Los_Angeles
-  place: TBA
-  date: May 2027
-  start: 2027-05-17
-  end: 2027-05-21
+  place: Seoul, South Korea
+  date: May 24-28, 2027
+  start: 2027-05-24
+  end: 2027-05-28
   hindex: 119
   sub: RO
-  note: 'Check IEEE RAS website for updates'
+  note: 'Venue confirmed at Seoul. Submission deadlines TBA. Check IEEE RAS website for updates'
 
 - title: WWW
   year: 2026
