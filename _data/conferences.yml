@@ -872,8 +872,8 @@
   id: aaai27
   full_name: AAAI Conference on Artificial Intelligence
   link: https://aaai.org/conference/aaai/aaai-27/
-  deadline: '2026-08-01 23:59:59'
-  abstract_deadline: '2026-07-25 23:59:59'
+  deadline: 'TBA (~Aug 2026)'
+  abstract_deadline: 'TBA'
   timezone: UTC-12
   place: Palais des congrès de Montréal, Québec, Canada
   date: February 16-23, 2027
@@ -881,7 +881,7 @@
   end: 2027-02-23
   hindex: 212
   sub: ['DM', 'KR', 'ML', 'RO', 'NLP', 'SP', 'CV', 'CG', 'HCI', 'AP']
-  note: 'Abstract deadline Jul 25, paper deadline Aug 1, 2026. Rebuttal Oct 2-8. Notification Nov 3, 2026. More info <a href="https://aaai.org/conference/aaai/aaai-27/">here</a>'
+  note: 'Venue confirmed at Palais des congrès de Montréal. Submission deadlines TBA (~Aug 2026 based on prior years). Check <a href="https://aaai.org/conference/aaai/aaai-27/">here</a> for updates'
 
 - title: ICLR
   year: 2027
