@@ -851,6 +851,328 @@
 
 # ============ 2027 Conferences ============
 
+- title: ICASSP
+  year: 2027
+  id: icassp27
+  full_name: IEEE International Conference on Acoustics, Speech and Signal Processing
+  link: https://2027.ieeeicassp.org/
+  deadline: '2026-09-23 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Toronto, Canada
+  date: May 16-21, 2027
+  start: 2027-05-16
+  end: 2027-05-21
+  hindex: 110
+  sub: SP
+  note: 'Full paper deadline Sep 23, 2026. More info <a href="https://cmsworkshops.com/ICASSP2027/papers.php">here</a>'
+
+- title: EACL
+  year: 2027
+  id: eacl27
+  full_name: European Chapter of the Association for Computational Linguistics
+  link: https://2027.eacl.org/
+  deadline: '2026-08-03 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Athens, Greece
+  date: March 9-14, 2027
+  start: 2027-03-09
+  end: 2027-03-14
+  hindex: 73
+  sub: NLP
+  note: 'ARR submission deadline Aug 3, 2026. Commitment deadline Oct 11, 2026. More info <a href="https://2027.eacl.org/calls/papers/">here</a>'
+
+- title: AAMAS
+  year: 2027
+  id: aamas27
+  link: https://warwick.ac.uk/fac/sci/dcs/aamas2027/
+  deadline: '2026-10-08 23:59:59'
+  abstract_deadline: '2026-10-01 23:59:59'
+  timezone: UTC-12
+  place: JW Marriott Hotel Hanoi, Vietnam
+  date: May 3-7, 2027
+  start: 2027-05-03
+  end: 2027-05-07
+  hindex: 100
+  sub: ['KR', 'ML', 'RO', 'AP']
+  note: 'Mandatory abstract deadline Oct 1, paper deadline Oct 8, 2026. Rebuttal Nov 20-24, notification Dec 21, 2026. More info <a href="https://warwick.ac.uk/fac/sci/dcs/aamas2027/">here</a>'
+
+- title: FAccT
+  year: 2027
+  id: facct27
+  full_name: ACM Conference on Fairness, Accountability, and Transparency
+  link: https://facctconference.org/2027/cfp.html
+  deadline: '2026-11-03 23:59:59'
+  abstract_deadline: '2026-10-27 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: June 21-24, 2027
+  start: 2027-06-21
+  end: 2027-06-24
+  hindex: 44
+  sub: ML
+  note: 'Abstract deadline Oct 27, paper deadline Nov 3, 2026 (AoE). Location not yet announced. More info <a href="https://facctconference.org/2027/cfp.html">here</a>'
+
+- title: ICAPS
+  year: 2027
+  id: icaps27
+  full_name: International Conference on Automated Planning and Scheduling
+  link: https://icaps27.icaps-conference.org/
+  deadline: '2026-12-14 23:59:59'
+  abstract_deadline: '2026-12-07 23:59:59'
+  timezone: UTC-12
+  place: Columbia, South Carolina, USA
+  date: June 27 - July 2, 2027
+  start: 2027-06-27
+  end: 2027-07-02
+  hindex: 32
+  sub: AP
+  note: 'Mandatory abstract deadline Dec 7, 2026. Main conference Jun 30 - Jul 2. More info <a href="https://icaps27.icaps-conference.org/dates/">here</a>'
+
+- title: RSS
+  year: 2027
+  id: rss27
+  link: https://roboticsconference.org/
+  deadline: '2027-04-16 23:59:59'
+  abstract_deadline: '2026-12-04 23:59:59'
+  timezone: UTC-12
+  place: Athens, Greece
+  date: July 6-11, 2027
+  start: 2027-07-06
+  end: 2027-07-11
+  hindex: 61
+  sub: RO
+  note: 'Two-stage submission. Stage 1 extended abstract Dec 4, 2026; Stage 2 full paper Apr 16, 2027; supplementary Apr 19, 2027. More info <a href="https://roboticsconference.org/information/cfp/">here</a>'
+
+- title: SIGIR
+  year: 2027
+  id: sigir27
+  link: https://sigir2027.org/
+  deadline: '2027-01-21 23:59:59'
+  abstract_deadline: '2027-01-14 23:59:59'
+  timezone: UTC-12
+  place: Signia by Hilton San Jose, California, USA
+  date: July 18-24, 2027
+  start: 2027-07-18
+  end: 2027-07-24
+  hindex: 100
+  sub: DM
+  note: 'Abstract deadline Jan 14, full paper Jan 21, 2027 (timezone not yet stated, AoE assumed). 50th anniversary. More info <a href="https://sigir2027.org/">here</a>'
+
+- title: IROS
+  year: 2027
+  id: iros27
+  link: https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/
+  deadline: '2027-03-01 23:59:59'
+  abstract_deadline: ''
+  timezone: America/Los_Angeles
+  place: Fortezza da Basso, Florence, Italy
+  date: September 26 - October 1, 2027
+  start: 2027-09-26
+  end: 2027-10-01
+  hindex: 80
+  sub: RO
+  note: 'Paper deadline Mar 1, 2027 (time of day not yet stated). More info <a href="https://www.ieee-ras.org/event/2027-ieee-rsj-international-conference-on-intelligent-robots-and-systems-iros-70525/">here</a>'
+
+- title: KDD
+  year: 2027
+  id: kdd27
+  link: https://kdd2027.kdd.org/
+  deadline: 'TBA (~Feb 2027, cycle 2)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: San Jose, California, USA
+  date: August 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  hindex: 156
+  sub: DM
+  note: 'Two submission cycles. Cycle 1 (abstract Jul 19, paper Jul 26, 2026) has passed; February cycle dates TBA. More info <a href="https://kdd2027.kdd.org/research-track-call-for-papers/">here</a>'
+
+- title: IJCAI
+  year: 2027
+  id: ijcai27
+  link: https://www.ijcai.org/future_conferences
+  deadline: 'TBA (~Jan 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: Kyoto, Japan and Hengqin, China
+  date: August 7-17, 2027
+  start: 2027-08-07
+  end: 2027-08-17
+  hindex: 145
+  sub: ML
+  note: 'Two sites. Kyoto Aug 7-13, Hengqin Aug 15-17, 2027. Check <a href="https://www.ijcai.org/future_conferences">here</a> for updates'
+
+- title: ICML
+  year: 2027
+  id: icml27
+  link: https://icml.cc/
+  deadline: 'TBA (~Jan 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: South America (city TBA)
+  date: July 2027
+  start: 2027-07-12
+  end: 2027-07-18
+  hindex: 320
+  sub: ML
+  note: 'Check <a href="https://icml.cc/Conferences/FutureMeetings">here</a> for updates'
+
+- title: COLT
+  year: 2027
+  id: colt27
+  full_name: Conference on Learning Theory
+  link: https://learningtheory.org/colt2027/
+  deadline: 'TBA (~Feb 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Tokyo, Japan
+  date: June 28 - July 2, 2027
+  start: 2027-06-28
+  end: 2027-07-02
+  hindex: 48
+  sub: ML
+  note: 'Check <a href="https://learningtheory.org/colt2027/">here</a> for updates'
+
+- title: MICCAI
+  year: 2027
+  id: miccai27
+  full_name: Medical Image Computing and Computer Assisted Intervention
+  link: https://miccai.org/upcoming-conferences/
+  deadline: 'TBA (~Feb 2027)'
+  abstract_deadline: 'TBA'
+  timezone: America/Los_Angeles
+  place: Auckland, New Zealand
+  date: September 27 - October 1, 2027
+  start: 2027-09-27
+  end: 2027-10-01
+  hindex: 100
+  sub: CV
+  note: 'Check <a href="https://miccai.org/upcoming-conferences/">here</a> for updates'
+
+- title: UAI
+  year: 2027
+  id: uai27
+  full_name: Conference on Uncertainty in Artificial Intelligence
+  link: https://www.auai.org/
+  deadline: 'TBA (~Feb 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: TBA
+  date: August 2027
+  start: 2027-08-01
+  end: 2027-08-05
+  hindex: 33
+  sub: ML
+  note: 'Check <a href="https://www.auai.org/">here</a> for updates'
+
+- title: COLM
+  year: 2027
+  id: colm27
+  link: https://colmweb.org/
+  deadline: 'TBA (~Mar 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: October 2027
+  start: 2027-10-04
+  end: 2027-10-07
+  hindex: 100
+  sub: NLP
+  note: 'Check <a href="https://colmweb.org/">here</a> for updates'
+
+- title: RecSys
+  year: 2027
+  id: recsys27
+  link: https://recsys.acm.org/recsys27/
+  deadline: 'TBA (~Apr 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: Hilton Hawaiian Village, Honolulu, Hawaii, USA
+  date: August 23-27, 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  hindex: 100
+  sub: DM
+  note: 'Check <a href="https://recsys.acm.org/recsys27/">here</a> for updates'
+
+- title: NeurIPS
+  year: 2027
+  id: neurips27
+  link: https://neurips.cc/
+  deadline: 'TBA (~May 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: Europe (city TBA)
+  date: December 2027
+  start: 2027-12-06
+  end: 2027-12-12
+  hindex: 309
+  sub: ML
+  note: 'Check <a href="https://neurips.cc/Conferences/FutureMeetings">here</a> for updates'
+
+- title: CIKM
+  year: 2027
+  id: cikm27
+  link: http://www.cikmconference.org/
+  deadline: 'TBA (~May 2027)'
+  abstract_deadline: 'TBA'
+  timezone: UTC-12
+  place: TBA
+  date: November 2027
+  start: 2027-11-01
+  end: 2027-11-05
+  hindex: 100
+  sub: DM
+  note: 'Check <a href="http://www.cikmconference.org/">here</a> for updates'
+
+- title: EMNLP
+  year: 2027
+  id: emnlp27
+  link: https://www.aclweb.org/portal/emnlp
+  deadline: 'TBA (~May 2027 ARR)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: TBA
+  date: November 2027
+  start: 2027-11-01
+  end: 2027-11-06
+  hindex: 100
+  sub: ['NLP', 'SP']
+  note: 'Uses ACL Rolling Review. Check <a href="https://www.aclweb.org/">here</a> for updates'
+
+- title: CoRL
+  year: 2027
+  id: corl27
+  link: https://www.corl.org/
+  deadline: 'TBA (~May 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: TBA
+  date: November 2027
+  start: 2027-11-08
+  end: 2027-11-11
+  hindex: 100
+  sub: RO
+  note: 'Check <a href="https://www.corl.org/">here</a> for updates'
+
+- title: ACL
+  year: 2027
+  id: acl27
+  link: https://2027.aclweb.org/
+  deadline: 'TBA (~Feb 2027 ARR)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Kyoto, Japan
+  date: August 17-22, 2027
+  start: 2027-08-17
+  end: 2027-08-22
+  hindex: 200
+  sub: NLP
+  note: 'Uses ACL Rolling Review. Check <a href="https://2027.aclweb.org/">here</a> for updates'
+
 - title: JMM
   year: 2027
   id: jmm27
