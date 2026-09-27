@@ -856,7 +856,7 @@
   id: jmm27
   full_name: Joint Mathematics Meetings
   link: https://jointmathematicsmeetings.org/jmm
-  deadline: 'TBA (~Sep 2026)'
+  deadline: '2026-09-15 23:59:59'
   abstract_deadline: ''
   timezone: America/New_York
   place: Chicago, IL, USA
@@ -865,7 +865,7 @@
   end: 2027-01-15
   hindex: 50
   sub: AP
-  note: McCormick Place venue. Check <a href='https://www.ams.org/national-index'>here</a> for updates
+  note: 'Abstract deadline for contributed papers Sep 15, 2026, 11:59 PM ET. PME poster session and contributed papers due Sep 29. McCormick Place venue. More info <a href="https://meetings.ams.org/math/jmm2027/cfp.cgi">here</a>'
 
 - title: AAAI
   year: 2027
@@ -886,109 +886,109 @@
 - title: ICLR
   year: 2027
   id: iclr27
-  link: https://iclr.cc/
-  deadline: 'TBA (~Sep 2026)'
-  abstract_deadline: 'TBA'
+  link: https://iclr.cc/Conferences/2027
+  deadline: '2026-09-25 23:59:59'
+  abstract_deadline: '2026-09-18 23:59:59'
   timezone: UTC-12
   place: TBA
-  date: April 2027
-  start: 2027-04-24
-  end: 2027-04-28
+  date: April 26-30, 2027
+  start: 2027-04-26
+  end: 2027-04-30
   hindex: 304
   sub: ['ML', 'AP', 'RO', 'CV', 'NLP', 'SP']
-  note: 'Check <a href="https://iclr.cc/">here</a> for updates'
+  note: 'Abstract deadline Sep 18, paper deadline Sep 25, 2026 (AoE). Main conference Apr 26-28, workshops Apr 29-30; location TBA. Final decisions Dec 16, 2026. More info <a href="https://iclr.cc/Conferences/2027/Dates">here</a>'
 
 - title: CVPR
   year: 2027
   id: cvpr27
-  link: https://cvpr.thecvf.com/
-  deadline: 'TBA (~Nov 2026)'
-  abstract_deadline: 'TBA'
+  link: https://cvpr.thecvf.com/Conferences/2027
+  deadline: '2026-11-16 23:59:59'
+  abstract_deadline: '2026-11-10 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: June 2027
-  start: 2027-06-14
-  end: 2027-06-20
+  place: Seattle, WA, USA
+  date: June 20-25, 2027
+  start: 2027-06-20
+  end: 2027-06-25
   hindex: 389
   sub: CV
-  note: 'Check <a href="https://cvpr.thecvf.com/">here</a> for updates'
+  note: 'Paper registration Nov 10, paper deadline Nov 16, supplementary Nov 23, 2026 (AoE). Deadline will not be extended. More info <a href="https://cvpr.thecvf.com/Conferences/2027/CallForPapers">here</a>'
 
 - title: WACV
   year: 2027
   id: wacv27
   full_name: IEEE/CVF Winter Conference on Applications of Computer Vision
   link: https://wacv.thecvf.com/Conferences/2027
-  deadline: 'TBA (~Jul 2026)'
-  abstract_deadline: 'TBA'
+  deadline: '2026-08-28 23:59:59'
+  abstract_deadline: '2026-08-21 23:59:59'
   timezone: UTC-12
   place: Disney Springs, Lake Buena Vista, Florida, USA
-  date: January 5-9, 2027
-  start: 2027-01-05
-  end: 2027-01-09
+  date: January 4-8, 2027
+  start: 2027-01-04
+  end: 2027-01-08
   hindex: 109
   sub: ['ML', 'CV']
-  note: 'Venue confirmed at Disney Springs. Submission deadlines TBA. Check <a href="https://wacv.thecvf.com/Conferences/2027/Dates">here</a> for updates'
+  note: 'Round 2 shown (enrollment Aug 21, paper Aug 28, 2026 AoE). Round 1 was enrollment Jun 19, paper Jun 26, 2026. Decisions Oct 9, 2026. Workshops Jan 4-5, main conference Jan 6-8. More info <a href="https://wacv.thecvf.com/Conferences/2027/CallForPapers">here</a>'
 
 - title: CHI
   year: 2027
   id: chi27
   full_name: ACM Conference on Human Factors in Computing Systems
-  link: https://chi.acm.org/
-  deadline: 'TBA (~Sep 2026)'
-  abstract_deadline: 'TBA'
+  link: https://chi2027.acm.org/
+  deadline: '2026-09-10 23:59:59'
+  abstract_deadline: ''
   timezone: UTC-12
-  place: Pittsburgh, PA, USA
+  place: David L. Lawrence Convention Center, Pittsburgh, PA, USA
   date: May 10-14, 2027
   start: 2027-05-10
   end: 2027-05-14
   hindex: 122
   sub: HCI
-  note: 'Venue confirmed. Check <a href="https://sigchi.org/events/chi-2027/">here</a> for updates'
+  note: 'Paper deadline Sep 10, 2026 (AoE, 24h grace period); no abstract deadline. Revise-and-resubmit Nov 5 - Dec 3, final notification Dec 17, 2026. More info <a href="https://chi2027.acm.org/authors/papers/">here</a>'
 
 - title: AISTATS
   year: 2027
   id: aistats27
-  link: https://aistats.org/
-  deadline: 'TBA (~Oct 2026)'
-  abstract_deadline: 'TBA'
+  link: https://aistats.org/aistats2027/
+  deadline: '2026-10-06 23:59:59'
+  abstract_deadline: '2026-09-29 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: May 2027
-  start: 2027-05-01
-  end: 2027-05-04
+  place: Montréal, Canada
+  date: May 3-6, 2027
+  start: 2027-05-03
+  end: 2027-05-06
   hindex: 100
   sub: ML
-  note: 'Check <a href="https://aistats.org/">here</a> for updates'
+  note: 'Abstract Sep 29, paper Oct 6, 2026 (AoE), via OpenReview. Decisions Jan 20, 2027. More info <a href="https://aistats.org/aistats2027/dates.html">here</a>'
 
 - title: NAACL
   year: 2027
   id: naacl27
-  link: https://naacl.org/
-  deadline: 'TBA (~Dec 2026 ARR)'
-  abstract_deadline: 'TBA'
+  link: https://2027.naacl.org/
+  deadline: '2026-10-12 23:59:59'
+  abstract_deadline: ''
   timezone: UTC-12
-  place: TBA
-  date: June 2027
+  place: San Francisco, California, USA
+  date: June 1-5, 2027
   start: 2027-06-01
-  end: 2027-06-06
+  end: 2027-06-05
   hindex: 132
   sub: NLP
-  note: 'Uses ACL Rolling Review. Check <a href="https://naacl.org/">here</a> for updates'
+  note: 'Via ACL Rolling Review October 2026 cycle: ARR submission Oct 12, 2026 (AoE). Commitment deadline Dec 23, 2026; notification Feb 10, 2027. More info <a href="https://2027.naacl.org/calls/main_conference_papers/">here</a>'
 
 - title: ICRA
   year: 2027
   id: icra27
-  link: https://www.ieee-ras.org/conferences-workshops/fully-sponsored/icra
-  deadline: 'TBA (~Sep 2026)'
-  abstract_deadline: 'TBA'
+  link: https://2027.ieee-icra.org/
+  deadline: '2026-09-16 23:59:59'
+  abstract_deadline: ''
   timezone: America/Los_Angeles
-  place: Seoul, South Korea
+  place: Coex, Seoul, South Korea
   date: May 24-28, 2027
   start: 2027-05-24
   end: 2027-05-28
   hindex: 119
   sub: RO
-  note: 'Venue confirmed at Seoul. Submission deadlines TBA. Check IEEE RAS website for updates'
+  note: 'Paper deadline Sep 16, 2026, 23:59 PST (extended by 24h from Sep 15). Notification Jan 31, 2027. More info <a href="https://2027.ieee-icra.org/contribute/call-for-icra-2027-papers-now-accepting-submissions/">here</a>'
 
 - title: WWW
   year: 2026
@@ -1010,80 +1010,80 @@
   year: 2027
   id: www27
   full_name: The Web Conference
-  link: https://thewebconf.org/
-  deadline: 'TBA (~Oct 2026)'
-  abstract_deadline: 'TBA'
+  link: https://www2027.thewebconf.org/
+  deadline: '2026-10-25 23:59:59'
+  abstract_deadline: '2026-10-18 23:59:59'
   timezone: UTC-12
   place: Dublin, Ireland
-  date: April 2027
-  start: 2027-04-19
-  end: 2027-04-23
+  date: May 10-14, 2027
+  start: 2027-05-10
+  end: 2027-05-14
   hindex: 100
   sub: DM
-  note: 'Venue confirmed. Check <a href="https://thewebconf.org/">here</a> for updates'
+  note: 'Research track: abstract Oct 18, paper Oct 25, 2026 (AoE), via OpenReview. Short papers: abstract Nov 9, paper Nov 16, 2026. More info <a href="https://www2027.thewebconf.org/research-track-papers/">here</a>'
 
 - title: WSDM
   year: 2027
   id: wsdm27
   full_name: ACM International Conference on Web Search and Data Mining
-  link: https://www.wsdm-conference.org/
-  deadline: 'TBA (~Aug 2026)'
-  abstract_deadline: 'TBA'
+  link: https://www.wsdm-conference.org/2027/
+  deadline: '2026-08-24 23:59:59'
+  abstract_deadline: '2026-08-17 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: February 2027
-  start: 2027-02-22
-  end: 2027-02-26
+  place: Cordis Hotel, Mong Kok, Hong Kong
+  date: February 15-19, 2027
+  start: 2027-02-15
+  end: 2027-02-19
   hindex: 100
   sub: DM
-  note: 'Host bids due Jan 2026. Check <a href="https://www.wsdm-conference.org/">here</a> for updates'
+  note: 'Full papers: abstract Aug 17, paper Aug 24, 2026 (AoE). Notification Nov 2, 2026. Short papers due Nov 17, 2026. More info <a href="https://www.wsdm-conference.org/2027/cffp.html">here</a>'
 
 - title: COLING
   year: 2027
   id: coling27
   full_name: International Conference on Computational Linguistics
-  link: https://coling2025.org/
-  deadline: 'TBA (~Sep 2026)'
-  abstract_deadline: 'TBA'
+  link: https://2027.coling-iccl.org/
+  deadline: '2026-10-12 23:59:59'
+  abstract_deadline: ''
   timezone: UTC-12
-  place: Macau
-  date: 2027
-  start: 2027-01-01
-  end: 2027-01-05
+  place: Macau, China
+  date: May 9-14, 2027
+  start: 2027-05-09
+  end: 2027-05-14
   hindex: 73
   sub: NLP
-  note: 'Venue confirmed. Check for updates'
+  note: 'Via ACL Rolling Review October 2026 cycle (shared with NAACL 2027): ARR submission Oct 12, 2026 (AoE). Commitment Dec 23, 2026; notification Feb 10, 2027. Virtual presentations May 6-7. More info <a href="https://2027.coling-iccl.org/calls/main_conference_papers/">here</a>'
 
 - title: ECIR
   year: 2027
   id: ecir27
   full_name: European Conference on Information Retrieval
-  link: https://ecir.eu/
-  deadline: 'TBA (~Oct 2026)'
-  abstract_deadline: 'TBA'
+  link: https://www.ecir2027.co.uk/
+  deadline: '2026-10-05 23:59:59'
+  abstract_deadline: '2026-09-21 23:59:59'
   timezone: UTC-12
-  place: TBA
-  date: April 2027
-  start: 2027-04-06
-  end: 2027-04-10
+  place: St Mary's Stadium, Southampton, UK
+  date: March 21-25, 2027
+  start: 2027-03-21
+  end: 2027-03-25
   hindex: 100
   sub: DM
-  note: 'Check <a href="https://ecir.eu/">here</a> for updates'
+  note: 'Full papers: abstract Sep 21, paper Oct 5, 2026 (time of day not stated; AoE assumed). Short paper abstracts Oct 5, 2026. Notification Dec 7, 2026. More info <a href="https://www.ecir2027.co.uk/call-for-full-papers">here</a>'
 
 - title: ICCV
   year: 2027
   id: iccv27
-  link: https://iccv.thecvf.com/
+  link: https://iccv.thecvf.com/Conferences/2027
   deadline: 'TBA (~Mar 2027)'
   abstract_deadline: 'TBA'
   timezone: UTC-12
-  place: TBA
-  date: October 2027
-  start: 2027-10-11
-  end: 2027-10-17
+  place: Hong Kong Convention and Exhibition Centre, Hong Kong
+  date: October 2-8, 2027
+  start: 2027-10-02
+  end: 2027-10-08
   hindex: 298
   sub: CV
-  note: 'Biennial conference (odd years). Check <a href="https://iccv.thecvf.com/">here</a> for updates'
+  note: 'Submission deadlines not yet published on the official site. Biennial conference (odd years). Check <a href="https://iccv.thecvf.com/Conferences/2027/Dates">here</a> for updates'
 
 - title: ICML
   year: 2025
