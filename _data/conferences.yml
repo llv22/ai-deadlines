@@ -1885,7 +1885,7 @@
   end: 2024-11-09
   sub: RO
 
-- title: MM
+- title: ACM MM
   year: 2024
   id: mm24
   link: https://2024.acmmm.org/
@@ -2467,7 +2467,7 @@
   sub: HCI
   note: Mandatory abstract deadline on Sep 07, 2023, and paper deadline on Sep 14, 2023. More info <a href='https://chi2024.acm.org/'>here</a>.
 
-- title: LREC-COLING
+- title: LREC
   year: 2024
   id: lreccoling24
   full_name: The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation
@@ -2482,7 +2482,7 @@
   sub: NLP
   note: Workshop / Tutorial proposals are also due on October 13th, more info <a href="https://lrec-coling-2024.lrec-conf.org/1stCfP-LRECCOLING2024.html">here</a>.
 
-- title: IJCNLP-AACL
+- title: AACL
   year: 2023
   id: aacl23
   link: http://www.ijcnlp-aacl2023.org/
@@ -2599,7 +2599,7 @@
   sub: ML
   note: Mandatory abstract deadline on May 02, 2023. More info <a href='https://ecai2023.eu/ECAI2023'>here</a>.
 
-- title: MM
+- title: ACM MM
   year: 2023
   id: mm23
   link: https://www.acmmm2023.org/
@@ -2640,7 +2640,7 @@
   sub: ML
   note: Mandatory abstract deadline on May 11, 2023
 
-- title: AutoML-Conf
+- title: AUTOMLCONF
   year: 2023
   id: automl-conf23
   link: https://2023.automl.cc
@@ -2920,7 +2920,7 @@
   end: 2023-03-03
   hindex: 54
   sub: DM
-- title: MM
+- title: ACM MM
   year: 2022
   id: mm22
   link: https://2022.acmmm.org/
@@ -3006,7 +3006,7 @@
   sub: SP
   note: Mandatory abstract deadline on May 13, 2022. More info <a href='https://ismir2022.ismir.net/calls/cfp/'>here</a>.
 
-- title: AACL-IJCNLP
+- title: AACL
   year: 2022
   id: aacl22
   link: https://www.aacl2022.org/
@@ -3133,7 +3133,7 @@
   sub: SP
   note: Mandatory abstract deadline on Apr 10, 2020. More info <a href='https://ismir.github.io/ISMIR2020/cfp/'>here</a>.
 
-- title: AACL-IJCNLP
+- title: AACL
   year: 2020
   id: aacl20
   link: http://aacl2020.org
@@ -3389,7 +3389,7 @@
   sub: CV
   note: Supplementary deadline on Mar 15, 2023. More info <a href='http://iccv2023.thecvf.com/home'>here</a>.
 
-- title: ECML-PKDD
+- title: ECML PKDD
   year: 2021
   id: ecmlpkdd2021
   link: https://2021.ecmlpkdd.org/
@@ -3405,7 +3405,7 @@
   sub: ML
   note: Mandatory abstract deadline on Mar 26, 2021. More info <a href='https://2021.ecmlpkdd.org/?page_id=1599/'>here</a>.
 
-- title: InterSpeech
+- title: INTERSPEECH
   year: 2023
   id: interspeech23
   link: http://www.interspeech2023.org/
@@ -3896,7 +3896,7 @@
   hindex: 73
   sub: RO
 
-- title: AutoML-Conf
+- title: AUTOMLCONF
   year: 2022
   id: automl-conf22
   link: https://automl.cc/
@@ -3952,7 +3952,7 @@
   sub: RO
   note: Workshop and Tutorial deadline on February 7, 2022
 
-- title: InterSpeech
+- title: INTERSPEECH
   year: 2022
   id: interspeech22
   link: http://www.interspeech2022.org/
@@ -3965,7 +3965,7 @@
   hindex: 100
   sub: SP
 
-- title: ECML/PKDD
+- title: ECML PKDD
   year: 2022
   id: ecmlpkdd22  # title as lower case + last two digits of year
   full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases # full conference name
@@ -4022,7 +4022,7 @@
   sub: CG
   note: part of evostar 2023
 
-- title: LOG
+- title: LoG
   year: 2022
   id: log22
   full_name: Learning on Graphs Conference
@@ -4082,7 +4082,7 @@
   sub: DM
   note: 
  
-- title: ECML/PKDD
+- title: ECML PKDD
   year: 2023
   id: ecmlpkdd23  # title as lower case + last two digits of year
   full_name: European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases # full conference name
@@ -4183,7 +4183,7 @@
   sub: ML
   note: Check the conference website for details the Challenge Track, Industry Statements and Demo Track, and Late Breaking Arxiv Track.
 
-- title: AutoML
+- title: AUTOMLCONF
   year: 2024
   id: automl24  # title as lower case + last two digits of year
   full_name: International Conference on Automated Machine Learning  # full conference name
@@ -4198,3 +4198,250 @@
   sub: ML
   note: Check the conference website for tutorials, contributions to the journal track and workshop deadlines
 
+- title: ALT
+  year: 2027
+  id: alt27
+  full_name: International Conference on Algorithmic Learning Theory
+  link: https://algorithmiclearningtheory.org/alt2027/
+  deadline: '2026-10-12 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Leiden, Netherlands
+  date: March 9-12, 2027
+  start: 2027-03-09
+  end: 2027-03-12
+  hindex: 15
+  sub: ML
+  note: 'In-person only. More info <a href="https://algorithmiclearningtheory.org/alt2027/call-for-papers/">here</a>'
+
+- title: FG
+  year: 2027
+  id: fg27
+  full_name: IEEE International Conference on Automatic Face and Gesture Recognition
+  link: https://fg2027.ieee-biometrics.org/
+  deadline: '2026-10-09 23:59:59'
+  abstract_deadline: '2026-10-02 23:59:59'
+  timezone: UTC-12
+  place: Marrakech, Morocco
+  date: April 26-30, 2027
+  start: 2027-04-26
+  end: 2027-04-30
+  sub: CV
+  note: 'Abstract deadline Oct 2, full paper deadline Oct 9, 2026 (timezone not stated; AoE assumed). More info <a href="https://ieee-biometrics.org/fg-2027-call-for-papers/">here</a>'
+
+- title: SaTML
+  year: 2027
+  id: satml27
+  full_name: IEEE Conference on Secure and Trustworthy Machine Learning
+  link: https://satml.org/
+  deadline: '2026-09-29 23:59:59'
+  abstract_deadline: '2026-09-22 23:59:59'
+  timezone: UTC-12
+  place: Reykjavik, Iceland
+  date: May 2027
+  start: ''
+  end: ''
+  sub: ML
+  note: 'Abstract registration Sep 22, paper deadline Sep 29, 2026 (AoE). Exact conference dates in early May not yet announced. More info <a href="https://satml.org/">here</a>'
+
+- title: evoMUSART
+  year: 2027
+  id: evomusart27
+  full_name: 16th International Conference on Artificial Intelligence in Music, Sound, Art and Design
+  link: https://www.evostar.org/2027/evomusart/
+  deadline: '2026-11-01 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Mainz, Germany
+  date: March 31 - April 2, 2027
+  start: 2027-03-31
+  end: 2027-04-02
+  hindex: 12
+  sub: CG
+  note: 'Part of EvoStar 2027. Timezone not stated; AoE assumed. More info <a href="https://www.evostar.org/2027/evomusart/">here</a>'
+
+- title: L4DC
+  year: 2027
+  id: l4dc27
+  full_name: Learning for Dynamics and Control Conference
+  link: https://l4dc2027.control.ee.ethz.ch/
+  deadline: '2026-11-13 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: KTH, Stockholm, Sweden
+  date: June 16-18, 2027
+  start: 2027-06-16
+  end: 2027-06-18
+  sub: ML
+  note: 'Submission via OpenReview. Timezone not stated; AoE assumed. More info <a href="https://l4dc2027.control.ee.ethz.ch/">here</a>'
+
+- title: PAKDD
+  year: 2027
+  id: pakdd27
+  full_name: Pacific-Asia Conference on Knowledge Discovery and Data Mining
+  link: https://pakdd2027.org/
+  deadline: '2026-11-20 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Wellington, New Zealand
+  date: June 29 - July 2, 2027
+  start: 2027-06-29
+  end: 2027-07-02
+  hindex: 29
+  sub: DM
+  note: 'Same deadline for all tracks. More info <a href="https://www.pakdd2027.org/pages/dates">here</a>'
+
+- title: ICWSM
+  year: 2027
+  id: icwsm27
+  full_name: International AAAI Conference on Web and Social Media
+  link: https://www.icwsm.org/2027/
+  deadline: '2027-01-15 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Edinburgh, UK
+  date: 2027 (dates TBA)
+  start: ''
+  end: ''
+  sub: DM
+  note: 'Rolling submissions; Jan 15, 2027 is the last of three rounds (May 15 and Sep 15, 2026 have passed). Timezone assumed AoE. More info <a href="https://www.icwsm.org/2027/submit/">here</a>'
+
+- title: ICPR
+  year: 2027
+  id: icpr27
+  full_name: International Conference on Pattern Recognition
+  link: https://www.icpr2027.com/
+  deadline: '2027-03-01 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Virtual
+  date: October 4-6 and 14-15, 2027
+  start: 2027-10-04
+  end: 2027-10-15
+  hindex: 38
+  sub: ML
+  note: 'Fully virtual edition. All dates are tentative. More info <a href="https://www.icpr2027.com/web/dates">here</a>'
+
+- title: ECAI
+  year: 2027
+  id: ecai27
+  full_name: European Conference on Artificial Intelligence
+  link: https://ecai2027.org/
+  deadline: '2027-04-14 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Athens, Greece
+  date: October 2-7, 2027
+  start: 2027-10-02
+  end: 2027-10-07
+  sub: ['ML', 'CV', 'NLP', 'RO', 'SP', 'DM', 'AP', 'KR', 'HCI']
+  note: 'Main conference Oct 4-7, workshops Oct 2-3. Timezone not stated; AoE assumed. More info <a href="https://ecai2027.org/">here</a>'
+
+- title: ICIP
+  year: 2027
+  id: icip27
+  full_name: IEEE International Conference on Image Processing
+  link: https://2027.ieeeicip.org/
+  deadline: 'TBA (~Feb 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Singapore
+  date: November 29 - December 3, 2027
+  start: 2027-11-29
+  end: 2027-12-03
+  hindex: 60
+  sub: CV
+  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://2027.ieeeicip.org/">here</a>'
+
+- title: ICMR
+  year: 2027
+  id: icmr27
+  full_name: ACM International Conference on Multimedia Retrieval
+  link: https://www.icmr2027.org/
+  deadline: 'TBA (~Jan 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Singapore
+  date: June 7-10, 2027
+  start: 2027-06-07
+  end: 2027-06-10
+  hindex: 33
+  sub: CV
+  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://www.icmr2027.org/cfc">here</a>'
+
+- title: ICME
+  year: 2027
+  id: icme27
+  full_name: IEEE International Conference on Multimedia and Expo
+  link: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
+  deadline: 'TBA (~Dec 2026)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Xiamen, China
+  date: July 13-17, 2027
+  start: 2027-07-13
+  end: 2027-07-17
+  hindex: 30
+  sub: CV
+  note: 'Deadline not yet announced; estimate based on past editions. No dedicated 2027 website yet'
+
+- title: MIDL
+  year: 2027
+  id: midl27
+  full_name: Medical Imaging with Deep Learning
+  link: https://2027.midl.io/
+  deadline: 'TBA (~Jan 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Porto, Portugal
+  date: July 14-16, 2027
+  start: 2027-07-14
+  end: 2027-07-16
+  sub: CV
+  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://2027.midl.io/">here</a>'
+
+- title: RLC
+  year: 2027
+  id: rlc27
+  full_name: Reinforcement Learning Conference
+  link: https://rl-conference.cc/
+  deadline: 'TBA (~Mar 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Brown University, USA and Odense, Denmark
+  date: August 2027
+  start: ''
+  end: ''
+  sub: ML
+  note: 'Held at two sites in 2027 (Brown in early August, Odense with EWRL in late August). Deadline not yet announced; RLC 2026 was due Mar 5. More info <a href="https://rl-conference.cc/">here</a>'
+
+- title: RO-MAN
+  year: 2027
+  id: roman27
+  full_name: IEEE International Conference on Robot and Human Interactive Communication
+  link: https://attend.ieee.org/ro-man-2027/
+  deadline: 'TBA (~Mar 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Waterloo, Ontario, Canada
+  date: August 23-27, 2027
+  start: 2027-08-23
+  end: 2027-08-27
+  sub: RO
+  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://attend.ieee.org/ro-man-2027/">here</a>'
+
+- title: UbiComp/ISWC
+  year: 2027
+  id: ubicomp27
+  full_name: ACM International Joint Conference on Pervasive and Ubiquitous Computing / International Symposium on Wearable Computers
+  link: https://www.ubicomp.org/
+  deadline: 'TBA (IMWUT rolling)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Seoul Dragon City, Seoul, South Korea
+  date: October 3-7, 2027
+  start: 2027-10-03
+  end: 2027-10-07
+  hindex: 100
+  sub: HCI
+  note: 'Papers are submitted to the journal PACM IMWUT on quarterly rolling deadlines. More info <a href="https://sigchi.org/events/ubicomp-2027/">here</a>'
