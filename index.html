@@ -25,13 +25,13 @@
             <div class="row">
               <form class="container">
                 <div class="row justify-content-center">
-                  <div class="row align-items-md-center col-12 col-10-md">
-                    <div class="col-12 col-md-5 filter-label">
+                  <div class="row align-items-md-center col-12 col-md-6 filter-group">
+                    <div class="col-12 col-md-4 filter-label">
                       <label for="subject-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
                         Subject Filter:
                       </label>
                     </div>
-                    <div class="col-12 col-md-6">
+                    <div class="col-12 col-md-8">
                       <select
                         id="subject-select"
                         name="subject-select"
@@ -42,6 +42,26 @@
                         <option value="{{type.sub}}" id="{{type.sub}}-checkbox">
                           {{type.name}} ({{type.sub}})
                         </option>
+                        {% endfor %}
+                      </select>
+                    </div>
+                  </div>
+                  <div class="row align-items-md-center col-12 col-md-6 filter-group">
+                    <div class="col-12 col-md-4 filter-label">
+                      <label for="conference-select" class="align-center" style="margin-bottom: 0px; line-height: 1.5;">
+                        Conference Filter:
+                      </label>
+                    </div>
+                    <div class="col-12 col-md-8">
+                      <select
+                        id="conference-select"
+                        name="conference-select"
+                        multiple="multiple"
+                        style="display: none"
+                      >
+                        {% assign conf_titles = site.data.conferences | map: "title" | uniq | sort_natural %}
+                        {% for title in conf_titles %}
+                        <option value="{{title}}">{{title}}</option>
                         {% endfor %}
                       </select>
                     </div>
@@ -66,7 +86,7 @@
         <div id="confs">
         <div id="coming_confs">
           {% for conf in site.data.conferences %}
-          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}">
+          <div id="{{conf.id}}" class="ConfItem {% for sub in conf.sub %} {{sub}}-conf {% endfor %}" data-title="{{conf.title}}">
             <div class="row conf-row">
                 <div class="col-6">
                   <span class="conf-title">
@@ -242,7 +262,7 @@
             subs = [csub];
             $("#subject-select").multiselect('deselect', all_subs);
             $("#subject-select").multiselect('select', subs);
-            update_filtering({ subs: subs, all_subs: all_subs});
+            update_filtering({ subs: subs, all_subs: all_subs, confs: confs });
         });
 
     });

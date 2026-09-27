@@ -12,4 +12,20 @@ if (subs == undefined) {
   subs = all_subs;
 }
 $("#subject-select").multiselect("select", subs);
-update_filtering({ subs: subs, all_subs: all_subs });
+
+// Get conferences from URL/Cache (only on pages with a conference filter)
+if ($("#conference-select").length) {
+  var conf_param = url.searchParams.get("conf");
+  if (conf_param != undefined) {
+    confs = conf_param.split(",").filter(function (c) { return c.length > 0; });
+  } else {
+    confs = store.get("{{site.domain}}-confs") || [];
+  }
+  // Drop names that are no longer in the conference list
+  var all_confs = $("#conference-select option").map(function () {
+    return $(this).val();
+  }).get();
+  confs = confs.filter(function (c) { return all_confs.indexOf(c) >= 0; });
+  $("#conference-select").multiselect("select", confs);
+}
+update_filtering({ subs: subs, all_subs: all_subs, confs: confs });

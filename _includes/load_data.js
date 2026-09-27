@@ -1,5 +1,6 @@
 
 var subs = [];
+var confs = [];
 var _all_subs = [];
 // Get all subs
 var conf_type_data = {{ site.data.types | jsonify}};
