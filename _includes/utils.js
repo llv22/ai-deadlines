@@ -16,21 +16,35 @@ function addUtcTimeZones() {
 
 function update_filtering(data) {
   var page_url = "{{site.baseurl}}";
+  var sel_confs = data.confs || [];
   store.set("{{site.domain}}-subs", data.subs);
-
-  $(".confItem").hide();
-  for (const j in data.all_subs) {
-    const s = data.all_subs[j];
-    const identifier = "." + s + "-conf";
-    if (data.subs.includes(s)) {
-      $(identifier).show();
-    }
+  if (data.confs !== undefined) {
+    store.set("{{site.domain}}-confs", data.confs);
   }
 
-  if (subs.length == 0) {
+  // A conference is shown if it matches a selected subject AND, when any
+  // conferences are selected, its name is one of them.
+  $(".ConfItem").each(function () {
+    var item = $(this);
+    var sub_match = data.subs.some(function (s) {
+      return item.hasClass(s + "-conf");
+    });
+    var conf_match =
+      sel_confs.length == 0 || sel_confs.indexOf(item.attr("data-title")) >= 0;
+    item.toggle(sub_match && conf_match);
+  });
+
+  var params = [];
+  if (data.subs.length > 0) {
+    params.push("sub=" + data.subs.join());
+  }
+  if (sel_confs.length > 0) {
+    params.push("conf=" + sel_confs.map(encodeURIComponent).join());
+  }
+  if (params.length == 0) {
     window.history.pushState("", "", page_url);
   } else {
-    window.history.pushState("", "", page_url + "/ai-deadlines?sub=" + data.subs.join());
+    window.history.pushState("", "", page_url + "/ai-deadlines?" + params.join("&"));
   }
 }
 
