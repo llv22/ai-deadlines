@@ -587,6 +587,21 @@
   sub: CV
   note: Abstract deadline Mar 25. Supplementary materials due Apr 8. More info <a href='https://2026.acmmm.org/site/cfp-guidelines.html'>here</a>
 
+- title: ACM MM
+  year: 2027
+  id: acmmm27
+  link: https://acmmm.org/
+  deadline: 'TBA (~Apr 2027)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Hong Kong
+  date: 2027 (dates TBA)
+  start:
+  end:
+  hindex: 100
+  sub: CV
+  note: 'Location announced on <a href="https://acmmm.org/">acmmm.org</a>; dates and deadlines not yet announced'
+
 - title: COLM
   year: 2026
   id: colm26
@@ -616,6 +631,21 @@
   hindex: 100
   sub: CG
   note: Submission form (title, abstract, authors) due Jan 15. Full paper and upload deadline Jan 23, 22:00 UTC. More info <a href='https://s2026.siggraph.org/program/technical-papers/'>here</a>
+
+- title: SIGGRAPH
+  year: 2027
+  id: siggraph27
+  link: https://s2027.siggraph.org/
+  deadline: 'TBA (~Jan 2027)'
+  abstract_deadline: ''
+  timezone: UTC
+  place: Anaheim, USA
+  date: August 8-12, 2027
+  start: 2027-08-08
+  end: 2027-08-12
+  hindex: 100
+  sub: CG
+  note: 'Deadline not yet announced; estimate based on past editions. Dates and venue from <a href="https://x.com/siggraph/status/2080465516708123061">ACM SIGGRAPH</a>'
 
 - title: RecSys
   year: 2026
@@ -676,6 +706,21 @@
   hindex: 45
   sub: ML
   note: Journal track deadlines. 1st deadline Oct 30, 2025. 2nd deadline Jan 15, 2026. More info <a href='https://ecmlpkdd.org/2026/submissions-journal-track/'>here</a>
+
+- title: ECML PKDD
+  year: 2027
+  id: ecmlpkdd27
+  link: https://ecmlpkdd.org/2027/
+  deadline: 'TBA (~Jan 2027, journal track)'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: Eindhoven, The Netherlands
+  date: August 30 - September 3, 2027
+  start: 2027-08-30
+  end: 2027-09-03
+  hindex: 45
+  sub: ML
+  note: 'Deadlines not yet announced; the journal track usually has an earlier round in autumn. Check <a href="https://ecmlpkdd.org/2027/">here</a> for updates'
 
 - title: CoRL
   year: 2026
@@ -739,6 +784,21 @@
   sub: SP
   note: Long paper track available. More info <a href='https://interspeech2026.org/en-AU/pages/calls/call-for-papers'>here</a>
 
+- title: INTERSPEECH
+  year: 2027
+  id: interspeech27
+  link: https://interspeech2027.org/
+  deadline: '2027-02-09 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: São Paulo, Brazil
+  date: August 29 - September 2, 2027
+  start: 2027-08-29
+  end: 2027-09-02
+  hindex: 100
+  sub: SP
+  note: 'Paper submission deadline Feb 9, 2027 (timezone not yet stated; AoE assumed). More info <a href="https://interspeech2027.org/">here</a>'
+
 - title: MICCAI
   year: 2026
   id: miccai26
@@ -769,6 +829,21 @@
   hindex: 100
   sub: CG
   note: Abstract deadline May 5. Full paper deadline May 12. More info <a href='https://asia.siggraph.org/2026/submissions/'>here</a>
+
+- title: SIGGRAPH Asia
+  year: 2027
+  id: siggraphasia27
+  link: https://asia.siggraph.org/2027/
+  deadline: 'TBA (~May 2027)'
+  abstract_deadline: ''
+  timezone: UTC
+  place: Tokyo, Japan
+  date: November 30 - December 3, 2027
+  start: 2027-11-30
+  end: 2027-12-03
+  hindex: 100
+  sub: CG
+  note: 'Tokyo International Forum. Deadlines not yet announced; see <a href="https://asia.siggraph.org/2026/about-the-event/siggraph-asia-2027/">here</a>'
 
 - title: JMM
   year: 2026
@@ -801,6 +876,22 @@
   hindex: 30
   sub: ['ML', 'AP']
   note: Published by Springer LNNS. More info <a href='https://saiconference.com/Computing/CallforPapers'>here</a>
+
+- title: Computing Conference
+  year: 2027
+  id: computing27
+  full_name: SAI Computing Conference
+  link: https://saiconference.com/Computing
+  deadline: '2026-10-01 23:59:59'
+  abstract_deadline: ''
+  timezone: UTC-12
+  place: London, UK
+  date: July 8-9, 2027
+  start: 2027-07-08
+  end: 2027-07-09
+  hindex: 30
+  sub: ['ML', 'AP']
+  note: 'Round 1 deadline Oct 1, 2026; Round 2 deadline Dec 1, 2026 (AoE). More info <a href="https://saiconference.com/Computing/CallforPapers">here</a>'
 
 - title: ICAPS
   year: 2026
