@@ -882,7 +882,7 @@
   id: computing27
   full_name: SAI Computing Conference
   link: https://saiconference.com/Computing
-  deadline: '2026-10-01 23:59:59'
+  deadline: '2026-12-01 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: London, UK
@@ -891,7 +891,7 @@
   end: 2027-07-09
   hindex: 30
   sub: ['ML', 'AP']
-  note: 'Round 1 deadline Oct 1, 2026; Round 2 deadline Dec 1, 2026 (AoE). More info <a href="https://saiconference.com/Computing/CallforPapers">here</a>'
+  note: 'Round 2 deadline Dec 1, 2026 (AoE); Round 1 closed Oct 1, 2026. More info <a href="https://saiconference.com/Computing/CallforPapers">here</a>'
 
 - title: ICAPS
   year: 2026
