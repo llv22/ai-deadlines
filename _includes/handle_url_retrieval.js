@@ -15,11 +15,14 @@ $("#subject-select").multiselect("select", subs);
 
 // Get conferences from URL/Cache (only on pages with a conference filter)
 if ($("#conference-select").length) {
+  // The conference selection comes only from the URL, so a plain visit
+  // always shows every conference. Clear the selection older versions saved.
+  store.remove("{{site.domain}}-confs");
   var conf_param = url.searchParams.get("conf");
   if (conf_param != undefined) {
     confs = conf_param.split(",").filter(function (c) { return c.length > 0; });
   } else {
-    confs = store.get("{{site.domain}}-confs") || [];
+    confs = [];
   }
   // Drop names that are no longer in the conference list
   var all_confs = $("#conference-select option").map(function () {
