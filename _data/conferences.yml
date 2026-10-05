@@ -1084,9 +1084,9 @@
 - title: IJCAI
   year: 2027
   id: ijcai27
-  link: https://www.ijcai.org/future_conferences
-  deadline: 'TBA (~Jan 2027)'
-  abstract_deadline: 'TBA'
+  link: https://2027.ijcai.org/
+  deadline: '2027-01-11 23:59:59'
+  abstract_deadline: '2027-01-04 23:59:59'
   timezone: UTC-12
   place: Kyoto, Japan and Hengqin, China
   date: August 7-17, 2027
@@ -1094,7 +1094,7 @@
   end: 2027-08-17
   hindex: 145
   sub: ML
-  note: 'Two sites. Kyoto Aug 7-13, Hengqin Aug 15-17, 2027. Check <a href="https://www.ijcai.org/future_conferences">here</a> for updates'
+  note: 'Abstract deadline Jan 4, 2027; full paper Jan 11, 2027 (AoE). Kyoto Aug 7-13, satellite in Hengqin Aug 15-17, 2027. More info <a href="https://2027.ijcai.org/">here</a>'
 
 - title: ICML
   year: 2027
@@ -4481,15 +4481,15 @@
   id: midl27
   full_name: Medical Imaging with Deep Learning
   link: https://2027.midl.io/
-  deadline: 'TBA (~Jan 2027)'
-  abstract_deadline: ''
+  deadline: '2026-12-04 23:59:59'
+  abstract_deadline: '2026-11-30 23:59:59'
   timezone: UTC-12
   place: Porto, Portugal
   date: July 14-16, 2027
   start: 2027-07-14
   end: 2027-07-16
   sub: CV
-  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://2027.midl.io/">here</a>'
+  note: 'Full papers: abstract registration Nov 30, submission Dec 4, 2026 (AoE). Short paper dates TBD. More info <a href="https://2027.midl.io/important-dates">here</a>'
 
 - title: RLC
   year: 2027
