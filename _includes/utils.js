@@ -18,9 +18,6 @@ function update_filtering(data) {
   var page_url = "{{site.baseurl}}";
   var sel_confs = data.confs || [];
   store.set("{{site.domain}}-subs", data.subs);
-  if (data.confs !== undefined) {
-    store.set("{{site.domain}}-confs", data.confs);
-  }
 
   // A conference is shown if it matches a selected subject AND, when any
   // conferences are selected, its name is one of them.
