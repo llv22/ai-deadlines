@@ -4449,7 +4449,7 @@
   id: icmr27
   full_name: ACM International Conference on Multimedia Retrieval
   link: https://www.icmr2027.org/
-  deadline: 'TBA (~Jan 2027)'
+  deadline: '2027-01-31 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Singapore
@@ -4458,7 +4458,7 @@
   end: 2027-06-10
   hindex: 33
   sub: CV
-  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://www.icmr2027.org/cfc">here</a>'
+  note: 'Regular papers (full and short) due Jan 31, 2027 (AoE). More info <a href="https://www.icmr2027.org/date">here</a>'
 
 - title: ICME
   year: 2027
