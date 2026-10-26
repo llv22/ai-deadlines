@@ -4464,8 +4464,8 @@
   year: 2027
   id: icme27
   full_name: IEEE International Conference on Multimedia and Expo
-  link: https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme
-  deadline: 'TBA (~Dec 2026)'
+  link: https://2027.ieeeicme.org/
+  deadline: '2026-12-30 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Xiamen, China
@@ -4474,7 +4474,7 @@
   end: 2027-07-17
   hindex: 30
   sub: CV
-  note: 'Deadline not yet announced; estimate based on past editions. No dedicated 2027 website yet'
+  note: 'Paper submission deadline Dec 30, 2026 (timezone not yet stated; AoE assumed). Source: <a href="https://ieee-cas.org/event/conference/2027-ieee-international-conference-multimedia-expo-icme">IEEE CAS</a> and <a href="https://signalprocessingsociety.org/events/2027-ieee-international-conference-multimedia-expo-icme">IEEE SPS</a> event pages'
 
 - title: MIDL
   year: 2027
