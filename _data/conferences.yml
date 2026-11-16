@@ -1253,7 +1253,7 @@
   year: 2027
   id: acl27
   link: https://2027.aclweb.org/
-  deadline: 'TBA (~Feb 2027 ARR)'
+  deadline: '2027-01-04 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Kyoto, Japan
@@ -1262,7 +1262,7 @@
   end: 2027-08-22
   hindex: 200
   sub: NLP
-  note: 'Uses ACL Rolling Review. Check <a href="https://2027.aclweb.org/">here</a> for updates'
+  note: 'Via ACL Rolling Review January 2027 cycle: ARR submission Jan 4, 2027 (AoE). Commitment deadline and notification TBA. Main conference Aug 20-22 (tutorials Aug 17, workshops Aug 18-19). More info <a href="https://2027.aclweb.org/calls/main/">here</a>'
 
 - title: JMM
   year: 2027
