@@ -1100,8 +1100,8 @@
   year: 2027
   id: icml27
   link: https://icml.cc/
-  deadline: 'TBA (~Jan 2027)'
-  abstract_deadline: 'TBA'
+  deadline: '2027-01-22 23:59:59'
+  abstract_deadline: '2027-01-14 23:59:59'
   timezone: UTC-12
   place: Riocentro, Rio de Janeiro, Brazil
   date: July 31 - August 6, 2027
@@ -1109,7 +1109,7 @@
   end: 2027-08-06
   hindex: 320
   sub: ML
-  note: 'Main conference Aug 2-4, workshops Aug 5-6. Deadlines not yet announced; call for papers "will be posted soon". Check <a href="https://icml.cc/Conferences/2027/Dates">here</a> for updates'
+  note: 'Abstract deadline Jan 14, full paper Jan 22, 2027 (AoE). Main conference Aug 2-4, workshops Aug 5-6. More info <a href="https://icml.cc/Conferences/2027/Dates">here</a>'
 
 - title: COLT
   year: 2027
