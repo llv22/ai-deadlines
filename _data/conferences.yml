@@ -1116,7 +1116,7 @@
   id: colt27
   full_name: Conference on Learning Theory
   link: https://learningtheory.org/colt2027/
-  deadline: 'TBA (~Feb 2027)'
+  deadline: '2027-01-29 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Tokyo, Japan
@@ -1125,7 +1125,7 @@
   end: 2027-07-02
   hindex: 48
   sub: ML
-  note: 'Check <a href="https://learningtheory.org/colt2027/">here</a> for updates'
+  note: 'Submission deadline Jan 29, 2027 (AoE). More info <a href="https://learningtheory.org/colt2027/">here</a>'
 
 - title: MICCAI
   year: 2027
@@ -1136,8 +1136,8 @@
   abstract_deadline: 'TBA'
   timezone: America/Los_Angeles
   place: Auckland, New Zealand
-  date: September 27 - October 1, 2027
-  start: 2027-09-27
+  date: September 26 - October 1, 2027
+  start: 2027-09-26
   end: 2027-10-01
   hindex: 100
   sub: CV
@@ -4433,7 +4433,7 @@
   id: icip27
   full_name: IEEE International Conference on Image Processing
   link: https://2027.ieeeicip.org/
-  deadline: 'TBA (~Feb 2027)'
+  deadline: '2027-03-31 23:59:59'
   abstract_deadline: ''
   timezone: UTC-12
   place: Singapore
@@ -4442,7 +4442,7 @@
   end: 2027-12-03
   hindex: 60
   sub: CV
-  note: 'Deadline not yet announced; estimate based on past editions. More info <a href="https://2027.ieeeicip.org/">here</a>'
+  note: 'Regular and special session papers due Mar 31, 2027 (AoE). More info <a href="https://2027.ieeeicip.org/important-dates/">here</a>'
 
 - title: ICMR
   year: 2027
